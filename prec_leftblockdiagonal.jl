@@ -11,14 +11,14 @@ function k_F(A)
 end
 
 
-#println("Reading data...")
-include("data/mpg_scale_f.jl")
+include("data/mpg_scale_f.jl") # defines A to be the matrix given in the directory.
 
-println(size(A))
+println(size(A)) # dimensions of A
 
-global block_size = 5
+
+global block_size = 5 # we precondition from the left with block diagonal matrices whose blocks are of size block_size
 n = size(A)[1]
-rem = n % block_size
+rem = n % block_size # we remove rows of A until its size is divisible by block_size
 
 if size(A)[1] == size(A)[2]
     A = A[1:end-rem, 1:end-rem]
@@ -26,7 +26,7 @@ else
     A = A[1:end-rem, 1:end]
 end
 
-println(size(A))
+println(size(A)) # new dimensions of A (some rows are removed)
 
 
 B = A * A'
