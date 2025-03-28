@@ -2,10 +2,13 @@
 # For a random matrix A and random symmetric matrices X,Y, plots the function t -> log( k( e^(tX) A e^(tY) ) )
 # for the condition number k that arises from the operator and the Frobenius norm.
 
-using Pkg
+#using Pkg
+#Pkg.add("Plots")
+#Pkg.add("LinearAlgebra")
+#Pkg.add("LaTeXStrings")
 using Plots
 using LinearAlgebra
-
+using LaTeXStrings
 
 
 A = rand([-3,3],100,100)
@@ -39,5 +42,5 @@ y2= log_F.(t)
 # println(test_convex())
 
 
-p = plot(t,[y1 y2],label=["log-opnorm" "log-F-norm"], linewidth=1.5)
+p = plot(t,[y1 y2],label=[L"\log \kappa (e^{tX}A e^{tY})" L"\log {\kappa}_F (e^{tX}A e^{tY})"], linewidth=1.5)
 savefig(p,"myplot.pdf")
