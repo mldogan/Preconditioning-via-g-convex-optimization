@@ -1,4 +1,9 @@
-
+#uncomment below if the code does not compile. Comment them again after it compiles.
+#using Pkg
+#Pkg.add("LinearAlgebra")
+#Pkg.add("Manifolds")
+#Pkg.add("Manopt")
+#Pkg.add("BlockDiagonals")
 using LinearAlgebra, Manifolds, Manopt, BlockDiagonals
 
 function k_F(A)
@@ -6,8 +11,8 @@ function k_F(A)
 end
 
 
-println("Reading data...")
-include("data/housing_scale_f.jl")
+#println("Reading data...")
+include("data/mpg_scale_f.jl")
 
 println(size(A))
 
@@ -36,11 +41,11 @@ op_norm_inv = opnorm(C)
 k_op = op_norm * op_norm_inv
 svd_min = minimum(svdvals(A))
 
-println("The Frobenius norm is $F_norm")
-println("The operator norm is $op_norm")
-println("The Frobenius condition number is $k")
-println("The condition number is $k_op")
-println("The minimum singular value is $svd_min")
+println("The Frobenius norm of the original matrix is $F_norm")
+println("The operator norm of the original matrix is $op_norm")
+println("The Frobenius condition number of the original matrix is $k")
+println("The condition number of the original matrix is $k_op")
+println("The minimum singular value of the original matrix is $svd_min")
 
 
 

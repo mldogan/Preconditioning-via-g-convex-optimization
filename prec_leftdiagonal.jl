@@ -2,11 +2,17 @@ function k_F(A)
     return norm(A) * norm(pinv(A))
 end
 
+#uncomment below if the code does not compile. Comment them again after it compiles.
+#using Pkg
+#Pkg.add("LinearAlgebra")
+#Pkg.add("Manifolds")
+#Pkg.add("Manopt")
 using LinearAlgebra
-println("Reading data...")
+using Manifolds, Manopt
+
 left = true
-include("data/housing_scale_f.jl")
-println("Reading data complete")
+include("data/mpg_scale_f.jl")
+
 if !left
     A = A'
 end
@@ -54,8 +60,6 @@ function grad_f(M,p)
     return vec(diag(X)) - vec(diag(Y))
 end
 
-
-using Manifolds, Manopt
 
 
 M = PositiveVectors(n)

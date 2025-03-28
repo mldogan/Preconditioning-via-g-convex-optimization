@@ -1,7 +1,9 @@
 # This code demonstrates the convexity of the function t -> log( k( e^(tX) A e^(tY) ) ) 
 # For a random matrix A and random symmetric matrices X,Y, plots the function t -> log( k( e^(tX) A e^(tY) ) )
-# for the condition number k that arises from the operator and the Frobenius norm.
+# for the condition number k that arises from the operator and the Frobenius norm.
 
+
+#uncomment below if it does not compile
 #using Pkg
 #Pkg.add("Plots")
 #Pkg.add("LinearAlgebra")

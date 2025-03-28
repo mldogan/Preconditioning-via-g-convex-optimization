@@ -1,3 +1,10 @@
+#uncomment below if the code does not compile. Comment them again after it compiles.
+#using Pkg
+#Pkg.add("LinearAlgebra")
+#Pkg.add("Manifolds")
+#Pkg.add("Manopt")
+#Pkg.add("BlockDiagonals")
+#Pkg.add("RecursiveArrayTools")
 using LinearAlgebra, Manifolds, Manopt, BlockDiagonals, RecursiveArrayTools;
 
 
@@ -7,7 +14,7 @@ end
 
 
 
-include("data/housing_scale_f.jl")
+include("data/mpg_scale_f.jl")
 println(size(A))
 
 n = size(A)[1]
