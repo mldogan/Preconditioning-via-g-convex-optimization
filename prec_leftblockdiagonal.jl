@@ -48,7 +48,7 @@ println("The condition number of the original matrix is $k_op")
 println("The minimum singular value of the original matrix is $svd_min")
 
 
-
+# the below is the function we want to optimize: log( kappa_F ( D * A ) ) over block diagonal D
 function f(M,p) 
     Dg = BlockDiagonal(p)
     return log(norm(Dg*A)) + log(norm(C*inv(Dg)))
@@ -86,6 +86,7 @@ M = PowerManifold(SymmetricPositiveDefinite(block_size) , NestedPowerRepresentat
 Ik = Matrix{Float64}(I,block_size,block_size)
 U = [Ik for i in 1:m]
 
+# the below is the main part: optimizes f over the manifold M using trust regions method. 
 opt1 = trust_regions(M, f, grad_f, U;
     debug=[:Iteration,(:Change, "|Δp|: %1.9f |"),
     (:Cost, " F(x): %1.20f | "), "\n", :Stop, 20],
