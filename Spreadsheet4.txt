@@ -1,0 +1,2547 @@
+Rows,400
+Final Frobenius Condition Number,410.5546642362894
+Final Euclidean Condition Number,3.132006113261752
+Improvement on the Frobenius Condition Number,1.0014579833549353
+Improvement on the Euclidean Condition Number,0.9991163680805842
+Initial Euclidean Condition Number,3.1292385726882688
+Name,cari.mtx
+Columns,1200
+Initial Frobenius Condition Number,411.15324610303696
+Rows,960
+Final Frobenius Condition Number,11713.290450935778
+Final Euclidean Condition Number,1513.6777230573596
+Improvement on the Frobenius Condition Number,3.643529276636745
+Improvement on the Euclidean Condition Number,1.5898247558006258
+Initial Euclidean Condition Number,2406.482316420514
+Name,cdde1.mtx
+Columns,960
+Initial Frobenius Condition Number,42677.71668373413
+Rows,100
+Final Frobenius Condition Number,9.238180733829149e10
+Final Euclidean Condition Number,2.260574730823143e10
+Improvement on the Frobenius Condition Number,92.58257230442304
+Improvement on the Euclidean Condition Number,104.47872043151456
+Initial Euclidean Condition Number,2.3618195531621743e12
+Name,rotor1.mtx
+Columns,100
+Initial Frobenius Condition Number,8.55294535751065e12
+Rows,800
+Final Frobenius Condition Number,14604.171113946344
+Final Euclidean Condition Number,703.5803831548528
+Improvement on the Frobenius Condition Number,1.4316024993095595
+Improvement on the Euclidean Condition Number,0.9683839856672448
+Initial Euclidean Condition Number,681.3359756767836
+Name,G12.mtx
+Columns,800
+Initial Frobenius Condition Number,20907.36786707006
+Rows,255
+Final Frobenius Condition Number,3.000003643767
+Final Euclidean Condition Number,1.0018510091023398
+Improvement on the Frobenius Condition Number,1.0001317872489357
+Improvement on the Euclidean Condition Number,1.0156431614535755
+Initial Euclidean Condition Number,1.0175231261901552
+Name,sphere3_coord.mtx
+Columns,3
+Initial Frobenius Condition Number,3.000399005994009
+Rows,315
+Final Frobenius Condition Number,17090.09475561839
+Final Euclidean Condition Number,1640.7837000772258
+Improvement on the Frobenius Condition Number,31.038090699917834
+Improvement on the Euclidean Condition Number,44.73956693066938
+Initial Euclidean Condition Number,73407.95216835641
+Name,cavity02.mtx
+Columns,315
+Initial Frobenius Condition Number,530443.9110950737
+Rows,575
+Final Frobenius Condition Number,7048.243360085585
+Final Euclidean Condition Number,1362.5256214414178
+Improvement on the Frobenius Condition Number,7.802654969986832
+Improvement on the Euclidean Condition Number,5.608629935916125
+Initial Euclidean Condition Number,7641.901988869057
+Name,umistfacesnorm_10NN.mtx
+Columns,575
+Initial Frobenius Condition Number,54995.01108324847
+Rows,480
+Final Frobenius Condition Number,88223.78306265932
+Final Euclidean Condition Number,8264.747336303082
+Improvement on the Frobenius Condition Number,1.4115856166279357
+Improvement on the Euclidean Condition Number,1.2586127708645818
+Initial Euclidean Condition Number,10402.116545440094
+Name,rbsa480.mtx
+Columns,480
+Initial Frobenius Condition Number,124535.42321575318
+Rows,1075
+Final Frobenius Condition Number,2995.386272837569
+Final Euclidean Condition Number,264.0034557710271
+Improvement on the Frobenius Condition Number,3.613839768509359
+Improvement on the Euclidean Condition Number,2.2833077200763414
+Initial Euclidean Condition Number,602.8011286888192
+Name,mice_10NN.mtx
+Columns,1075
+Initial Frobenius Condition Number,10824.846034827431
+Rows,1070
+Final Frobenius Condition Number,703878.5371879129
+Final Euclidean Condition Number,69900.30940913914
+Improvement on the Frobenius Condition Number,142.16769321828986
+Improvement on the Euclidean Condition Number,371.24586475040053
+Initial Euclidean Condition Number,2.595020081291642e7
+Name,bcsstk08.mtx
+Columns,1070
+Initial Frobenius Condition Number,1.0006878793786982e8
+Rows,485
+Final Frobenius Condition Number,2.8713201758064545e11
+Final Euclidean Condition Number,8.082773504940851e10
+Improvement on the Frobenius Condition Number,42.76494591024983
+Improvement on the Euclidean Condition Number,48.16179827138605
+Initial Euclidean Condition Number,3.892809070182652e12
+Name,bcsstk20.mtx
+Columns,485
+Initial Frobenius Condition Number,1.2279185200937205e13
+Rows,585
+Final Frobenius Condition Number,8257.950126949372
+Final Euclidean Condition Number,461.40043896903023
+Improvement on the Frobenius Condition Number,53.06035815447474
+Improvement on the Euclidean Condition Number,61.713436898452265
+Initial Euclidean Condition Number,28474.60687523342
+Name,bcsstk34.mtx
+Columns,585
+Initial Frobenius Condition Number,438169.7913577238
+Rows,990
+Final Frobenius Condition Number,106379.08629284879
+Final Euclidean Condition Number,13239.01736836305
+Improvement on the Frobenius Condition Number,4.713838332360336
+Improvement on the Euclidean Condition Number,0.8627013777930913
+Initial Euclidean Condition Number,11421.318524313469
+Name,lpi_klein3.mtx
+Columns,1082
+Initial Frobenius Condition Number,501453.81472869864
+Rows,165
+Final Frobenius Condition Number,5948.865774567883
+Final Euclidean Condition Number,1423.7811461038627
+Improvement on the Frobenius Condition Number,4.943204445560735
+Improvement on the Euclidean Condition Number,6.089307701698526
+Initial Euclidean Condition Number,8669.841498503405
+Name,YaleA_10NN.mtx
+Columns,165
+Initial Frobenius Condition Number,29406.459742888062
+Rows,210
+Final Frobenius Condition Number,2885.796619356065
+Final Euclidean Condition Number,659.4282829128532
+Improvement on the Frobenius Condition Number,4.82528703468396
+Improvement on the Euclidean Condition Number,7.452667940036851
+Initial Euclidean Condition Number,4914.500022818172
+Name,Glass_10NN.mtx
+Columns,210
+Initial Frobenius Condition Number,13924.797012113624
+Rows,415
+Final Frobenius Condition Number,4.328993822375106e7
+Final Euclidean Condition Number,1.0640457970598465e7
+Improvement on the Frobenius Condition Number,217.72762295171077
+Improvement on the Euclidean Condition Number,375.3806295511746
+Initial Euclidean Condition Number,3.9942218117160654e9
+Name,mhdb416.mtx
+Columns,415
+Initial Frobenius Condition Number,9.425415347183723e9
+Rows,285
+Final Frobenius Condition Number,461.40611227097196
+Final Euclidean Condition Number,4.883754536020499
+Improvement on the Frobenius Condition Number,1.0538377451325243
+Improvement on the Euclidean Condition Number,1.0168303949242077
+Initial Euclidean Condition Number,4.965950053574614
+Name,mesh3em5.mtx
+Columns,285
+Initial Frobenius Condition Number,486.2471769460054
+Rows,680
+Final Frobenius Condition Number,3.14939850289579e6
+Final Euclidean Condition Number,115640.76627359993
+Improvement on the Frobenius Condition Number,26.12990185040082
+Improvement on the Euclidean Condition Number,31.018066975532108
+Initial Euclidean Condition Number,3.586953033376377e6
+Name,fs_680_3.mtx
+Columns,680
+Initial Frobenius Condition Number,8.229347376846628e7
+Rows,1030
+Final Frobenius Condition Number,57685.653543175686
+Final Euclidean Condition Number,9601.715081605837
+Improvement on the Frobenius Condition Number,3.724213300811609
+Improvement on the Euclidean Condition Number,1.9645513343658356
+Initial Euclidean Condition Number,18863.062175769315
+Name,illc1033.mtx
+Columns,320
+Initial Frobenius Condition Number,214833.67819150523
+Rows,55
+Final Frobenius Condition Number,611.122262765276
+Final Euclidean Condition Number,224.73394531744975
+Improvement on the Frobenius Condition Number,2.117722803899849
+Improvement on the Euclidean Condition Number,1.3337984931292497
+Initial Euclidean Condition Number,299.7497976194057
+Name,cage_G_22.mtx
+Columns,55
+Initial Frobenius Condition Number,1294.1875518289005
+Rows,1180
+Final Frobenius Condition Number,131352.0309171273
+Final Euclidean Condition Number,9453.181433199221
+Improvement on the Frobenius Condition Number,68.675026071769
+Improvement on the Euclidean Condition Number,71.18735556991237
+Initial Euclidean Condition Number,672946.9879520468
+Name,cavity06.mtx
+Columns,1180
+Initial Frobenius Condition Number,9.020604147813525e6
+Rows,990
+Final Frobenius Condition Number,2261.401299975458
+Final Euclidean Condition Number,79.78864518217331
+Improvement on the Frobenius Condition Number,1.589932672350676
+Improvement on the Euclidean Condition Number,1.78017523028969
+Initial Euclidean Condition Number,142.03776981167775
+Name,jpwh_991.mtx
+Columns,990
+Initial Frobenius Condition Number,3595.4758121272725
+Rows,240
+Final Frobenius Condition Number,852.2116540710956
+Final Euclidean Condition Number,20.839888162110256
+Improvement on the Frobenius Condition Number,26.377208820047453
+Improvement on the Euclidean Condition Number,72.91221996238987
+Initial Euclidean Condition Number,1519.4825096673876
+Name,p0282.mtx
+Columns,523
+Initial Frobenius Condition Number,22478.964758311333
+Rows,115
+Final Frobenius Condition Number,855.1454871975726
+Final Euclidean Condition Number,206.02123966519278
+Improvement on the Frobenius Condition Number,2.0293786280453365
+Improvement on the Euclidean Condition Number,1.6841549427117886
+Initial Euclidean Condition Number,346.9716890857444
+Name,bcspwr03.mtx
+Columns,115
+Initial Frobenius Condition Number,1735.4139755881708
+Rows,800
+Final Frobenius Condition Number,32637.049506055748
+Final Euclidean Condition Number,4713.177529035779
+Improvement on the Frobenius Condition Number,1.8316940561072552
+Improvement on the Euclidean Condition Number,2.7545964188260403
+Initial Euclidean Condition Number,12982.901942773322
+Name,G16.mtx
+Columns,800
+Initial Frobenius Condition Number,59781.089589120544
+Rows,150
+Final Frobenius Condition Number,6455.115467105952
+Final Euclidean Condition Number,1174.9093861546346
+Improvement on the Frobenius Condition Number,328.5188021890995
+Improvement on the Euclidean Condition Number,565.1559271763342
+Initial Euclidean Condition Number,664007.0034804002
+Name,lp_lotfi.mtx
+Columns,366
+Initial Frobenius Condition Number,2.120626801245977e6
+Rows,540
+Final Frobenius Condition Number,9.131476065730814e6
+Final Euclidean Condition Number,1.1097571214139534e6
+Improvement on the Frobenius Condition Number,7.174366854694235
+Improvement on the Euclidean Condition Number,7.081681325795512
+Initial Euclidean Condition Number,7.858946282885776e6
+Name,fs_541_3.mtx
+Columns,540
+Initial Frobenius Condition Number,6.551255922041287e7
+Rows,960
+Final Frobenius Condition Number,117413.52626403375
+Final Euclidean Condition Number,16828.167886466334
+Improvement on the Frobenius Condition Number,3.4725202065338343
+Improvement on the Euclidean Condition Number,1.2796286152906529
+Initial Euclidean Condition Number,21533.805170437547
+Name,cdde5.mtx
+Columns,960
+Initial Frobenius Condition Number,407720.84247224825
+Rows,135
+Final Frobenius Condition Number,135.00000000111234
+Final Euclidean Condition Number,1.0000147592440407
+Improvement on the Frobenius Condition Number,43.811397193183716
+Improvement on the Euclidean Condition Number,941.28075507984
+Initial Euclidean Condition Number,941.2946476722151
+Name,bcsstm22.mtx
+Columns,135
+Initial Frobenius Condition Number,5914.538621128535
+Rows,1030
+Final Frobenius Condition Number,982.8526017010169
+Final Euclidean Condition Number,105.33302615100683
+Improvement on the Frobenius Condition Number,3.030946201449013
+Improvement on the Euclidean Condition Number,1.5831306360992325
+Initial Euclidean Condition Number,166.75594069270053
+Name,well1033.mtx
+Columns,320
+Initial Frobenius Condition Number,2978.973359709977
+Rows,115
+Final Frobenius Condition Number,5488.750245212716
+Final Euclidean Condition Number,1361.668512980429
+Improvement on the Frobenius Condition Number,5.533632773296175
+Improvement on the Euclidean Condition Number,5.206811604449908
+Initial Euclidean Condition Number,7089.951414800548
+Name,lp_stocfor1.mtx
+Columns,165
+Initial Frobenius Condition Number,30372.728241346507
+Rows,950
+Final Frobenius Condition Number,5.0552939189410194e10
+Final Euclidean Condition Number,1.1782810789124075e10
+Improvement on the Frobenius Condition Number,202.82126138789377
+Improvement on the Euclidean Condition Number,91.40640746553514
+Initial Euclidean Condition Number,1.0770244040799788e12
+Name,spaceStation_4.mtx
+Columns,950
+Initial Frobenius Condition Number,1.0253210893261664e13
+Rows,20
+Final Frobenius Condition Number,108.3481439702937
+Final Euclidean Condition Number,37.03467038267907
+Improvement on the Frobenius Condition Number,1.216055466276649
+Improvement on the Euclidean Condition Number,1.3390390002182697
+Initial Euclidean Condition Number,49.590868002635744
+Name,can_24.mtx
+Columns,20
+Initial Frobenius Condition Number,131.757352736005
+Rows,430
+Final Frobenius Condition Number,7.884254421774269e10
+Final Euclidean Condition Number,1.0504646928209675e10
+Improvement on the Frobenius Condition Number,113.96957919412256
+Improvement on the Euclidean Condition Number,275.8025024076028
+Initial Euclidean Condition Number,2.897207909708566e12
+Name,oscil_dcop_09.mtx
+Columns,430
+Initial Frobenius Condition Number,8.985651587090135e12
+Rows,960
+Final Frobenius Condition Number,1847.1978555271803
+Final Euclidean Condition Number,41.04072672586274
+Improvement on the Frobenius Condition Number,1.476491314009564
+Improvement on the Euclidean Condition Number,1.6596210600590184
+Initial Euclidean Condition Number,68.11205439436881
+Name,cdde4.mtx
+Columns,960
+Initial Frobenius Condition Number,2727.371588942975
+Rows,300
+Final Frobenius Condition Number,2536.9541910481457
+Final Euclidean Condition Number,160.08869833297138
+Improvement on the Frobenius Condition Number,3.12390096320137
+Improvement on the Euclidean Condition Number,1.0343833448343571
+Initial Euclidean Condition Number,165.5930832518373
+Name,lp_sctap1.mtx
+Columns,660
+Initial Frobenius Condition Number,7925.193641013056
+Rows,540
+Final Frobenius Condition Number,1.0965077087913773e6
+Final Euclidean Condition Number,114081.02676405178
+Improvement on the Frobenius Condition Number,4.777920929108563
+Improvement on the Euclidean Condition Number,8.336264673061565
+Initial Euclidean Condition Number,951009.633279756
+Name,fs_541_2.mtx
+Columns,540
+Initial Frobenius Condition Number,5.239027130763199e6
+Rows,800
+Final Frobenius Condition Number,497733.189341519
+Final Euclidean Condition Number,98419.89426191537
+Improvement on the Frobenius Condition Number,2.84534765297151
+Improvement on the Euclidean Condition Number,3.3762590466854294
+Initial Euclidean Condition Number,332291.05837561516
+Name,G17.mtx
+Columns,800
+Initial Frobenius Condition Number,1.4162239620989154e6
+Rows,500
+Final Frobenius Condition Number,287864.42791770335
+Final Euclidean Condition Number,23962.026163087106
+Improvement on the Frobenius Condition Number,25.84050614661985
+Improvement on the Euclidean Condition Number,15.576475950631844
+Initial Euclidean Condition Number,373243.92425773735
+Name,olm500.mtx
+Columns,500
+Initial Frobenius Condition Number,7.43856251900062e6
+Rows,45
+Final Frobenius Condition Number,85.70946480618314
+Final Euclidean Condition Number,12.454848000439744
+Improvement on the Frobenius Condition Number,1.7653098778320608
+Improvement on the Euclidean Condition Number,1.5010767760194863
+Initial Euclidean Condition Number,18.695683082312836
+Name,mesh1em1.mtx
+Columns,45
+Initial Frobenius Condition Number,151.30376484605446
+Rows,10
+Final Frobenius Condition Number,490800.01770404
+Final Euclidean Condition Number,261034.3196058985
+Improvement on the Frobenius Condition Number,61.10522391087541
+Improvement on the Euclidean Condition Number,55.31317952131996
+Initial Euclidean Condition Number,1.4438638181586673e7
+Name,LFAT5_M.mtx
+Columns,10
+Initial Frobenius Condition Number,2.999044497726698e7
+Rows,5
+Final Frobenius Condition Number,5.002418741915628
+Final Euclidean Condition Number,1.0462157567919332
+Improvement on the Frobenius Condition Number,1.1509858387537588
+Improvement on the Euclidean Condition Number,1.8962303021654656
+Initial Euclidean Condition Number,1.9838660206318388
+Name,lpi_galenet.mtx
+Columns,14
+Initial Frobenius Condition Number,5.757713131461282
+Rows,10
+Final Frobenius Condition Number,12.374601364402185
+Final Euclidean Condition Number,4.025022328552494
+Improvement on the Frobenius Condition Number,1.6865013730944771
+Improvement on the Euclidean Condition Number,2.1048893407190383
+Initial Euclidean Condition Number,8.47222659552627
+Name,problem.mtx
+Columns,46
+Initial Frobenius Condition Number,20.869782192561075
+Rows,450
+Final Frobenius Condition Number,9.353804362022775e11
+Final Euclidean Condition Number,5.8812431865236984e10
+Improvement on the Frobenius Condition Number,49.385597752411385
+Improvement on the Euclidean Condition Number,52.79654899485416
+Initial Euclidean Condition Number,3.105093440479507e12
+Name,nsic_A_1.mtx
+Columns,883
+Initial Frobenius Condition Number,4.619432196776077e13
+Rows,1180
+Final Frobenius Condition Number,189782.20590753245
+Final Euclidean Condition Number,13811.29111002589
+Improvement on the Frobenius Condition Number,73.55694657547612
+Improvement on the Euclidean Condition Number,93.0124437612555
+Initial Euclidean Condition Number,1.284621937641611e6
+Name,cavity07.mtx
+Columns,1180
+Initial Frobenius Condition Number,1.3959799580916373e7
+Rows,775
+Final Frobenius Condition Number,36454.559261675844
+Final Euclidean Condition Number,2972.841585228448
+Improvement on the Frobenius Condition Number,1.6045778852307324
+Improvement on the Euclidean Condition Number,1.5557541696576078
+Initial Euclidean Condition Number,4625.010691950691
+Name,lshp_778.mtx
+Columns,775
+Initial Frobenius Condition Number,58494.17960711823
+Rows,1025
+Final Frobenius Condition Number,17949.453829894992
+Final Euclidean Condition Number,116.2405779162174
+Improvement on the Frobenius Condition Number,351.14045262411537
+Improvement on the Euclidean Condition Number,4071.401923895485
+Initial Euclidean Condition Number,473262.1125628106
+Name,S20PI_n1_E.mtx
+Columns,1025
+Initial Frobenius Condition Number,6.302779342184989e6
+Rows,70
+Final Frobenius Condition Number,110.93125068419342
+Final Euclidean Condition Number,4.765329929668623
+Improvement on the Frobenius Condition Number,1.0576950918247638
+Improvement on the Euclidean Condition Number,1.0577283732583769
+Initial Euclidean Condition Number,5.0404246745478485
+Name,cage_G_23.mtx
+Columns,70
+Initial Frobenius Condition Number,117.33143937865384
+Rows,150
+Final Frobenius Condition Number,1019.5843980917347
+Final Euclidean Condition Number,282.4808024425228
+Improvement on the Frobenius Condition Number,1.9516664027704849
+Improvement on the Euclidean Condition Number,2.4053884358650275
+Initial Euclidean Condition Number,679.4760555491177
+Name,iris_dataset_30NN.mtx
+Columns,150
+Initial Frobenius Condition Number,1989.8886145446058
+Rows,680
+Final Frobenius Condition Number,146553.937451711
+Final Euclidean Condition Number,5390.4140999021165
+Improvement on the Frobenius Condition Number,26.72138978281006
+Improvement on the Euclidean Condition Number,27.23021838546401
+Initial Euclidean Condition Number,146782.15312841904
+Name,fs_680_2.mtx
+Columns,680
+Initial Frobenius Condition Number,3.916124886852735e6
+Rows,670
+Final Frobenius Condition Number,2.1789768668132936
+Final Euclidean Condition Number,1.5219061094177773
+Improvement on the Frobenius Condition Number,1.4168692404466745
+Improvement on the Euclidean Condition Number,1.7869879928600578
+Initial Euclidean Condition Number,2.7196279437899333
+Name,Sandi_sandi_coord.mtx
+Columns,2
+Initial Frobenius Condition Number,3.087325298232626
+Rows,815
+Final Frobenius Condition Number,2.412209630921324e10
+Final Euclidean Condition Number,3.5048660281841974e9
+Improvement on the Frobenius Condition Number,37.810038722081885
+Improvement on the Euclidean Condition Number,38.10121484636475
+Initial Euclidean Condition Number,1.3353965354757118e11
+Name,bcsstk19.mtx
+Columns,815
+Initial Frobenius Condition Number,9.120573955091412e11
+Rows,105
+Final Frobenius Condition Number,614.4010528183293
+Final Euclidean Condition Number,93.76642956504338
+Improvement on the Frobenius Condition Number,2.2754433286422264
+Improvement on the Euclidean Condition Number,3.171488088123591
+Initial Euclidean Condition Number,297.3791144314148
+Name,breasttissue_10NN.mtx
+Columns,105
+Initial Frobenius Condition Number,1398.0347767462274
+Rows,355
+Final Frobenius Condition Number,537.0246727567652
+Final Euclidean Condition Number,30.77683791987175
+Improvement on the Frobenius Condition Number,1.5453606044722448
+Improvement on the Euclidean Condition Number,1.8556010964166543
+Initial Euclidean Condition Number,57.10953418835168
+Name,lp_stair.mtx
+Columns,614
+Initial Frobenius Condition Number,829.896772907904
+Rows,1180
+Final Frobenius Condition Number,112094.80760818475
+Final Euclidean Condition Number,9523.838347938323
+Improvement on the Frobenius Condition Number,78.07482205932277
+Improvement on the Euclidean Condition Number,60.59125839268816
+Initial Euclidean Condition Number,577061.3502301233
+Name,cavity05.mtx
+Columns,1180
+Initial Frobenius Condition Number,8.751782157783045e6
+Rows,55
+Final Frobenius Condition Number,238.81941481581438
+Final Euclidean Condition Number,56.15675039791227
+Improvement on the Frobenius Condition Number,1.643940689984517
+Improvement on the Euclidean Condition Number,1.501644415376703
+Initial Euclidean Condition Number,84.3274706207284
+Name,cage_G_21.mtx
+Columns,55
+Initial Frobenius Condition Number,392.6049535740085
+Rows,60
+Final Frobenius Condition Number,60.17031528772678
+Final Euclidean Condition Number,1.1114572901860085
+Improvement on the Frobenius Condition Number,1.0008558527365663
+Improvement on the Euclidean Condition Number,0.9855935308382432
+Initial Euclidean Condition Number,1.095445115010334
+Name,cis-n4c6-b15.mtx
+Columns,920
+Initial Frobenius Condition Number,60.22181221672584
+Rows,485
+Final Frobenius Condition Number,1292.8890152931833
+Final Euclidean Condition Number,27.995168991927276
+Improvement on the Frobenius Condition Number,16.241091351411285
+Improvement on the Euclidean Condition Number,22.228247781798153
+Initial Euclidean Condition Number,622.2835530458719
+Name,lp_agg.mtx
+Columns,615
+Initial Frobenius Condition Number,20997.92860461277
+Rows,55
+Final Frobenius Condition Number,844.5169533573261
+Final Euclidean Condition Number,314.4463236300686
+Improvement on the Frobenius Condition Number,2.1947711932845655
+Improvement on the Euclidean Condition Number,1.362090081084373
+Initial Euclidean Condition Number,428.3042184499632
+Name,cage_G_09.mtx
+Columns,55
+Initial Frobenius Condition Number,1853.5214814691044
+Rows,625
+Final Frobenius Condition Number,60632.54706261686
+Final Euclidean Condition Number,8798.227971445172
+Improvement on the Frobenius Condition Number,12.546632061619832
+Improvement on the Euclidean Condition Number,6.019647616350614
+Initial Euclidean Condition Number,52962.232036419235
+Name,cz628.mtx
+Columns,625
+Initial Frobenius Condition Number,760734.258953502
+Rows,200
+Final Frobenius Condition Number,204.67486599205995
+Final Euclidean Condition Number,4.540505377876578
+Improvement on the Frobenius Condition Number,46.76053184997093
+Improvement on the Euclidean Condition Number,240.21086564660942
+Initial Euclidean Condition Number,1090.6787272928182
+Name,Trefethen_200.mtx
+Columns,200
+Initial Frobenius Condition Number,9570.705590110252
+Rows,340
+Final Frobenius Condition Number,213027.926354338
+Final Euclidean Condition Number,5454.549724398524
+Improvement on the Frobenius Condition Number,31.122177815740798
+Improvement on the Euclidean Condition Number,37.29984885899132
+Initial Euclidean Condition Number,203453.88031391767
+Name,tols340.mtx
+Columns,340
+Initial Frobenius Condition Number,6.629893003718243e6
+Rows,75
+Final Frobenius Condition Number,115.3492621551989
+Final Euclidean Condition Number,16.16824387776084
+Improvement on the Frobenius Condition Number,1.3358183920465942
+Improvement on the Euclidean Condition Number,1.2236988861835234
+Initial Euclidean Condition Number,19.78506202475951
+Name,lp_scsd1.mtx
+Columns,760
+Initial Frobenius Condition Number,154.08566589591885
+Rows,800
+Final Frobenius Condition Number,2.995696191498982e6
+Final Euclidean Condition Number,593140.919584664
+Improvement on the Frobenius Condition Number,1.4158906287579747
+Improvement on the Euclidean Condition Number,1.7147007307090305
+Initial Euclidean Condition Number,1.0170591682252497e6
+Name,G15.mtx
+Columns,800
+Initial Frobenius Condition Number,4.2415781641493635e6
+Rows,1080
+Final Frobenius Condition Number,296076.21659745876
+Final Euclidean Condition Number,581.5464630715522
+Improvement on the Frobenius Condition Number,17.19546725735376
+Improvement on the Euclidean Condition Number,17.195530598162406
+Initial Euclidean Condition Number,10000.0
+Name,bcsstm09.mtx
+Columns,1080
+Initial Frobenius Condition Number,5.091168888182782e6
+Rows,960
+Final Frobenius Condition Number,2574.1432234993267
+Final Euclidean Condition Number,114.420807954378
+Improvement on the Frobenius Condition Number,1.986613133272652
+Improvement on the Euclidean Condition Number,1.5426661171018534
+Initial Euclidean Condition Number,176.51310352263718
+Name,cdde6.mtx
+Columns,960
+Initial Frobenius Condition Number,5113.826734728562
+Rows,20
+Final Frobenius Condition Number,22.666666666666668
+Final Euclidean Condition Number,3.000000000000001
+Improvement on the Frobenius Condition Number,1.4705882352941164
+Improvement on the Euclidean Condition Number,0.9999999999999996
+Initial Euclidean Condition Number,2.9999999999999996
+Name,p0040.mtx
+Columns,63
+Initial Frobenius Condition Number,33.33333333333331
+Rows,305
+Final Frobenius Condition Number,651.916514479938
+Final Euclidean Condition Number,28.740849078251415
+Improvement on the Frobenius Condition Number,42.83945494830668
+Improvement on the Euclidean Condition Number,131.76300189183283
+Initial Euclidean Condition Number,3786.9805514705226
+Name,lp_bandm.mtx
+Columns,472
+Initial Frobenius Condition Number,27927.74815212042
+Rows,310
+Final Frobenius Condition Number,2.62105897416898
+Final Euclidean Condition Number,2.1575758473965645
+Improvement on the Frobenius Condition Number,1.2595277148614612
+Improvement on the Euclidean Condition Number,1.3737192717272908
+Initial Euclidean Condition Number,2.963903521782001
+Name,GD01_a_coord.mtx
+Columns,2
+Initial Frobenius Condition Number,3.301296420252181
+Rows,485
+Final Frobenius Condition Number,39766.2755246483
+Final Euclidean Condition Number,502.5052362349765
+Improvement on the Frobenius Condition Number,87.02697140095931
+Improvement on the Euclidean Condition Number,508.21485226902786
+Initial Euclidean Condition Number,255380.62439757152
+Name,bcsstm20.mtx
+Columns,485
+Initial Frobenius Condition Number,3.4607385228062356e6
+Rows,585
+Final Frobenius Condition Number,61982.48603208488
+Final Euclidean Condition Number,7351.317394399019
+Improvement on the Frobenius Condition Number,15.501352319224596
+Improvement on the Euclidean Condition Number,34.60646741412229
+Initial Euclidean Condition Number,254403.12586014002
+Name,bcsstm34.mtx
+Columns,585
+Initial Frobenius Condition Number,960812.3536047651
+Rows,645
+Final Frobenius Condition Number,87097.76819968593
+Final Euclidean Condition Number,7314.554056151342
+Improvement on the Frobenius Condition Number,5415.154286337531
+Improvement on the Euclidean Condition Number,45798.89809387097
+Initial Euclidean Condition Number,3.349985158197859e8
+Name,dynamicSoaringProblem_1.mtx
+Columns,645
+Initial Frobenius Condition Number,4.7164785279696196e8
+Rows,1070
+Final Frobenius Condition Number,849008.963014565
+Final Euclidean Condition Number,64407.3255569789
+Improvement on the Frobenius Condition Number,60.573046704421216
+Improvement on the Euclidean Condition Number,128.34281093785793
+Initial Euclidean Condition Number,8.266217206972408e6
+Name,bcsstm08.mtx
+Columns,1070
+Initial Frobenius Condition Number,5.1427059569153465e7
+Rows,510
+Final Frobenius Condition Number,512.8920038346962
+Final Euclidean Condition Number,1.5355436819518233
+Improvement on the Frobenius Condition Number,1.2913516367657545
+Improvement on the Euclidean Condition Number,2.4309128494055194
+Initial Euclidean Condition Number,3.7327728672801492
+Name,dwb512.mtx
+Columns,510
+Initial Frobenius Condition Number,662.3239286360025
+Rows,800
+Final Frobenius Condition Number,13476.163416027257
+Final Euclidean Condition Number,1037.1367132109087
+Improvement on the Frobenius Condition Number,1.3308523712757785
+Improvement on the Euclidean Condition Number,1.9228053633579492
+Initial Euclidean Condition Number,1994.2120346973704
+Name,G14.mtx
+Columns,800
+Initial Frobenius Condition Number,17934.78403791977
+Rows,1005
+Final Frobenius Condition Number,23670.782654874834
+Final Euclidean Condition Number,1621.0502995948718
+Improvement on the Frobenius Condition Number,1.6162164012826226
+Improvement on the Euclidean Condition Number,1.7571748412535095
+Initial Euclidean Condition Number,2848.468802854573
+Name,lshp1009.mtx
+Columns,1005
+Initial Frobenius Condition Number,38257.107158004925
+Rows,540
+Final Frobenius Condition Number,544.5810283112903
+Final Euclidean Condition Number,2.3223130761393604
+Improvement on the Frobenius Condition Number,1.0312991777777103
+Improvement on the Euclidean Condition Number,1.1869984805774467
+Initial Euclidean Condition Number,2.756582092802557
+Name,fs_541_1.mtx
+Columns,540
+Initial Frobenius Condition Number,561.6259667307737
+Rows,455
+Final Frobenius Condition Number,64628.0130021373
+Final Euclidean Condition Number,13285.970917324486
+Improvement on the Frobenius Condition Number,227.18753343634208
+Improvement on the Euclidean Condition Number,280.70707155461173
+Initial Euclidean Condition Number,3.729465988961895e6
+Name,gas11.mtx
+Columns,862
+Initial Frobenius Condition Number,1.4682678864847418e7
+Rows,25
+Final Frobenius Condition Number,28.655820949045605
+Final Euclidean Condition Number,3.542207641383678
+Improvement on the Frobenius Condition Number,1.3693705729307464
+Improvement on the Euclidean Condition Number,2.405501159306369
+Initial Euclidean Condition Number,8.520784587852317
+Name,lp_afiro.mtx
+Columns,51
+Initial Frobenius Condition Number,39.24043795079547
+Rows,465
+Final Frobenius Condition Number,3.029171039530939e9
+Final Euclidean Condition Number,1.6667603555019927e8
+Improvement on the Frobenius Condition Number,2169.988089367393
+Improvement on the Euclidean Condition Number,7768.827386478807
+Initial Euclidean Condition Number,1.2948773496521033e12
+Name,nsic_A_2.mtx
+Columns,897
+Initial Frobenius Condition Number,6.573265076438782e12
+Rows,55
+Final Frobenius Condition Number,139.59088024334193
+Final Euclidean Condition Number,24.897615827880582
+Improvement on the Frobenius Condition Number,1.2475183206201412
+Improvement on the Euclidean Condition Number,1.2509863443037852
+Initial Euclidean Condition Number,31.14657740640039
+Name,cage_G_08.mtx
+Columns,55
+Initial Frobenius Condition Number,174.14218049506118
+Rows,55
+Final Frobenius Condition Number,162.0897741685739
+Final Euclidean Condition Number,29.527586292288273
+Improvement on the Frobenius Condition Number,1.3371550903936973
+Improvement on the Euclidean Condition Number,1.3503041612238353
+Initial Euclidean Condition Number,39.87122264137273
+Name,cage_G_20.mtx
+Columns,55
+Initial Frobenius Condition Number,216.73916663027342
+Rows,70
+Final Frobenius Condition Number,2.0297856105787466
+Final Euclidean Condition Number,1.1881192646659213
+Improvement on the Frobenius Condition Number,1.4402912738391676
+Improvement on the Euclidean Condition Number,2.127645596161173
+Initial Euclidean Condition Number,2.527896721180699
+Name,GlossGT_coord.mtx
+Columns,2
+Initial Frobenius Condition Number,2.9234825026808755
+Rows,315
+Final Frobenius Condition Number,314896.04560699814
+Final Euclidean Condition Number,56360.91417551963
+Improvement on the Frobenius Condition Number,85.01767281273825
+Improvement on the Euclidean Condition Number,86.98757281292299
+Initial Euclidean Condition Number,4.902699125645918e6
+Name,cavity04.mtx
+Columns,315
+Initial Frobenius Condition Number,2.677172897544087e7
+Rows,680
+Final Frobenius Condition Number,13530.085704823525
+Final Euclidean Condition Number,519.7593531372545
+Improvement on the Frobenius Condition Number,27.568390043828423
+Improvement on the Euclidean Condition Number,29.639131030830217
+Initial Euclidean Condition Number,15405.21557213464
+Name,fs_680_1.mtx
+Columns,680
+Initial Frobenius Condition Number,373002.68003700214
+Rows,300
+Final Frobenius Condition Number,1.4200472544262758e6
+Final Euclidean Condition Number,482460.94304683723
+Improvement on the Frobenius Condition Number,4.422742406037327
+Improvement on the Euclidean Condition Number,1.7548436821651046
+Initial Euclidean Condition Number,846643.5377971607
+Name,utm300.mtx
+Columns,300
+Initial Frobenius Condition Number,6.280503210727967e6
+Rows,1105
+Final Frobenius Condition Number,6.3197798506526284e7
+Final Euclidean Condition Number,1.9747746480854128e7
+Improvement on the Frobenius Condition Number,6.769698431678737
+Improvement on the Euclidean Condition Number,1.345208885345414
+Initial Euclidean Condition Number,2.6564844031593606e7
+Name,gre_1107.mtx
+Columns,1105
+Initial Frobenius Condition Number,4.278300374351798e8
+Rows,305
+Final Frobenius Condition Number,2.0000816663035237
+Final Euclidean Condition Number,1.0090778664519977
+Improvement on the Frobenius Condition Number,1.0024168948698735
+Improvement on the Euclidean Condition Number,1.0629631773355184
+Initial Euclidean Condition Number,1.0726126151027613
+Name,mesh2e1_coord.mtx
+Columns,2
+Initial Frobenius Condition Number,2.004915653422141
+Rows,760
+Final Frobenius Condition Number,17039.910632571493
+Final Euclidean Condition Number,3865.7691611490964
+Improvement on the Frobenius Condition Number,7.041986377074666
+Improvement on the Euclidean Condition Number,1.4192608884747926
+Initial Euclidean Condition Number,5486.53497429092
+Name,fs_760_1.mtx
+Columns,760
+Initial Frobenius Condition Number,119994.81854113821
+Rows,110
+Final Frobenius Condition Number,783224.0785440353
+Final Euclidean Condition Number,140326.27554283026
+Improvement on the Frobenius Condition Number,27.17305765092236
+Improvement on the Euclidean Condition Number,48.32116270774423
+Initial Euclidean Condition Number,6.780728792676851e6
+Name,bcsstk03.mtx
+Columns,110
+Initial Frobenius Condition Number,2.1282593039867613e7
+Rows,135
+Final Frobenius Condition Number,203931.7599364248
+Final Euclidean Condition Number,58658.58422902924
+Improvement on the Frobenius Condition Number,2.8048725564686148
+Improvement on the Euclidean Condition Number,1.4588928071974125
+Initial Euclidean Condition Number,85576.58661211435
+Name,rw136.mtx
+Columns,135
+Initial Frobenius Condition Number,572002.5968380236
+Rows,365
+Final Frobenius Condition Number,3350.2550429175376
+Final Euclidean Condition Number,360.9754124385358
+Improvement on the Frobenius Condition Number,2.261512452985829
+Improvement on the Euclidean Condition Number,2.6719871284189693
+Initial Euclidean Condition Number,964.5216557114964
+Name,dermatology_5NN.mtx
+Columns,365
+Initial Frobenius Condition Number,7576.643500236584
+Rows,65
+Final Frobenius Condition Number,2531.9335147748584
+Final Euclidean Condition Number,1172.6375302977779
+Improvement on the Frobenius Condition Number,2.9083680687393967
+Improvement on the Euclidean Condition Number,2.0005062438452192
+Initial Euclidean Condition Number,2345.868701127942
+Name,west0067.mtx
+Columns,65
+Initial Frobenius Condition Number,7363.794586542308
+Rows,1000
+Final Frobenius Condition Number,109172.94226226765
+Final Euclidean Condition Number,56808.29567196737
+Improvement on the Frobenius Condition Number,10.011156931633348
+Improvement on the Euclidean Condition Number,2.650627397599694
+Initial Euclidean Condition Number,150577.62491906082
+Name,collins_15NN.mtx
+Columns,1000
+Initial Frobenius Condition Number,1.092947457675708e6
+Rows,400
+Final Frobenius Condition Number,5775.755038620598
+Final Euclidean Condition Number,453.8757926280749
+Improvement on the Frobenius Condition Number,47.33824829066995
+Improvement on the Euclidean Condition Number,115.76912290651946
+Initial Euclidean Condition Number,52544.802421053544
+Name,lpi_bgetam.mtx
+Columns,816
+Initial Frobenius Condition Number,273414.1260843099
+Rows,1180
+Final Frobenius Condition Number,493559.9328016307
+Final Euclidean Condition Number,53421.48986340879
+Improvement on the Frobenius Condition Number,143.95665288546277
+Improvement on the Euclidean Condition Number,150.67832664217062
+Initial Euclidean Condition Number,8.049460699350116e6
+Name,cavity09.mtx
+Columns,1180
+Initial Frobenius Condition Number,7.105123592449668e7
+Rows,90
+Final Frobenius Condition Number,377.52312659508567
+Final Euclidean Condition Number,43.32913635601519
+Improvement on the Frobenius Condition Number,1.1903062024371711
+Improvement on the Euclidean Condition Number,1.7278200155482493
+Initial Euclidean Condition Number,74.86494905234238
+Name,cage_G_39.mtx
+Columns,90
+Initial Frobenius Condition Number,449.36811914960384
+Rows,55
+Final Frobenius Condition Number,157.71609212203109
+Final Euclidean Condition Number,25.378502058348477
+Improvement on the Frobenius Condition Number,1.2146012280781224
+Improvement on the Euclidean Condition Number,1.266877897150953
+Initial Euclidean Condition Number,32.15146332052165
+Name,cage_G_11.mtx
+Columns,55
+Initial Frobenius Condition Number,191.56215917910126
+Rows,5
+Final Frobenius Condition Number,4.999999999999999
+Final Euclidean Condition Number,1.0000000009312866
+Improvement on the Frobenius Condition Number,1.5822190883532543
+Improvement on the Euclidean Condition Number,3.7781387553164985
+Initial Euclidean Condition Number,3.7781387588350284
+Name,lpi_itest2.mtx
+Columns,13
+Initial Frobenius Condition Number,7.91109544176627
+Rows,215
+Final Frobenius Condition Number,820.421697623972
+Final Euclidean Condition Number,69.77221794035366
+Improvement on the Frobenius Condition Number,1.3966925616033328
+Improvement on the Euclidean Condition Number,1.401813321190741
+Initial Euclidean Condition Number,97.80762455781137
+Name,gre_216a.mtx
+Columns,215
+Initial Frobenius Condition Number,1145.8768824493804
+Rows,55
+Final Frobenius Condition Number,124.95114003953553
+Final Euclidean Condition Number,20.050912632016573
+Improvement on the Frobenius Condition Number,1.2835877584186337
+Improvement on the Euclidean Condition Number,1.4311557903296828
+Initial Euclidean Condition Number,28.695979714705096
+Name,cage_G_05.mtx
+Columns,55
+Initial Frobenius Condition Number,160.3857537552002
+Rows,395
+Final Frobenius Condition Number,544.749914407171
+Final Euclidean Condition Number,4.42754121220837
+Improvement on the Frobenius Condition Number,1.9252625410365392
+Improvement on the Euclidean Condition Number,4.772468212959264
+Initial Euclidean Condition Number,21.130299696831575
+Name,bfwb398.mtx
+Columns,395
+Initial Frobenius Condition Number,1048.7866044409873
+Rows,800
+Final Frobenius Condition Number,17624.390211574246
+Final Euclidean Condition Number,1457.7197760415481
+Improvement on the Frobenius Condition Number,1.4363293265527892
+Improvement on the Euclidean Condition Number,1.5967616036148553
+Initial Euclidean Condition Number,2327.63096721319
+Name,G19.mtx
+Columns,800
+Initial Frobenius Condition Number,25314.428523494007
+Rows,180
+Final Frobenius Condition Number,1.640365714837628e9
+Final Euclidean Condition Number,1.340282471919645e9
+Improvement on the Frobenius Condition Number,114.92440364126644
+Improvement on the Euclidean Condition Number,126.8584659777986
+Initial Euclidean Condition Number,1.700261783646581e11
+Name,fs_183_6.mtx
+Columns,180
+Initial Frobenius Condition Number,1.885180515312941e11
+Rows,495
+Final Frobenius Condition Number,1318.8174129962183
+Final Euclidean Condition Number,82.64775443849587
+Improvement on the Frobenius Condition Number,3.0911405938076317
+Improvement on the Euclidean Condition Number,13.228299460329193
+Initial Euclidean Condition Number,1093.2892454361745
+Name,lp_finnis.mtx
+Columns,1064
+Initial Frobenius Condition Number,4076.650041132975
+Rows,80
+Final Frobenius Condition Number,3.4583179094625254
+Final Euclidean Condition Number,1.8281147113226985
+Improvement on the Frobenius Condition Number,1.6400808085751095
+Improvement on the Euclidean Condition Number,2.0183580367739586
+Initial Euclidean Condition Number,3.689790019742874
+Name,GD97_a_coord.mtx
+Columns,3
+Initial Frobenius Condition Number,5.671920833261081
+Rows,570
+Final Frobenius Condition Number,20882.10270389114
+Final Euclidean Condition Number,4199.478518850029
+Improvement on the Frobenius Condition Number,5.229204592331956
+Improvement on the Euclidean Condition Number,8.371644218598933
+Initial Euclidean Condition Number,35156.54006346125
+Name,micromass_10NN.mtx
+Columns,570
+Initial Frobenius Condition Number,109196.78735673512
+Rows,135
+Final Frobenius Condition Number,68033.22746114814
+Final Euclidean Condition Number,15882.341345776362
+Improvement on the Frobenius Condition Number,21.87048183756022
+Improvement on the Euclidean Condition Number,58.10917978286884
+Initial Euclidean Condition Number,922909.8286346097
+Name,rajat11.mtx
+Columns,135
+Initial Frobenius Condition Number,1.4879194655396435e6
+Rows,300
+Final Frobenius Condition Number,140436.41138095356
+Final Euclidean Condition Number,20482.315317422614
+Improvement on the Frobenius Condition Number,6.6933795505977765
+Improvement on the Euclidean Condition Number,5.6619026295223644
+Initial Euclidean Condition Number,115968.87495442129
+Name,rajat05.mtx
+Columns,300
+Initial Frobenius Condition Number,939994.2040966114
+Rows,300
+Final Frobenius Condition Number,1546.4891244135301
+Final Euclidean Condition Number,199.3047568005007
+Improvement on the Frobenius Condition Number,23.152677600542766
+Improvement on the Euclidean Condition Number,26.305537259946117
+Initial Euclidean Condition Number,5242.818706100071
+Name,08blocks.mtx
+Columns,300
+Initial Frobenius Condition Number,35805.36411029213
+Rows,430
+Final Frobenius Condition Number,6.587157647974163e10
+Final Euclidean Condition Number,1.032722034678121e10
+Improvement on the Frobenius Condition Number,85.43985494280135
+Improvement on the Euclidean Condition Number,135.5227856394744
+Initial Euclidean Condition Number,1.3995736693084482e12
+Name,oscil_dcop_13.mtx
+Columns,430
+Initial Frobenius Condition Number,5.62805793928277e12
+Rows,150
+Final Frobenius Condition Number,150.00000000000023
+Final Euclidean Condition Number,1.0000001716768547
+Improvement on the Frobenius Condition Number,2.1684190264293997
+Improvement on the Euclidean Condition Number,12.69814563849379
+Initial Euclidean Condition Number,12.698147818471494
+Name,bcsstm05.mtx
+Columns,150
+Initial Frobenius Condition Number,325.26285396441045
+Rows,685
+Final Frobenius Condition Number,70000.26463710626
+Final Euclidean Condition Number,14682.588012644423
+Improvement on the Frobenius Condition Number,9.74827359459802
+Improvement on the Euclidean Condition Number,28.81819179283778
+Initial Euclidean Condition Number,423125.6373636079
+Name,685_bus.mtx
+Columns,685
+Initial Frobenius Condition Number,682381.7313767765
+Rows,240
+Final Frobenius Condition Number,4.956247795619017e6
+Final Euclidean Condition Number,174759.32345582033
+Improvement on the Frobenius Condition Number,49.7926164190315
+Improvement on the Euclidean Condition Number,161.7940044532159
+Initial Euclidean Condition Number,2.8275010757451992e7
+Name,steam1.mtx
+Columns,240
+Initial Frobenius Condition Number,2.467845453649282e8
+Rows,1100
+Final Frobenius Condition Number,7781.823670073008
+Final Euclidean Condition Number,955.5888615273825
+Improvement on the Frobenius Condition Number,2.7545377067329397
+Improvement on the Euclidean Condition Number,2.2798829927296347
+Initial Euclidean Condition Number,2178.6307934381534
+Name,sherman4.mtx
+Columns,1100
+Initial Frobenius Condition Number,21435.32672636301
+Rows,1000
+Final Frobenius Condition Number,1.9797811490323816e6
+Final Euclidean Condition Number,98495.5985901376
+Improvement on the Frobenius Condition Number,27.948654368484085
+Improvement on the Euclidean Condition Number,15.09937401046491
+Initial Euclidean Condition Number,1.487221881497108e6
+Name,olm1000.mtx
+Columns,1000
+Initial Frobenius Condition Number,5.5332219059546314e7
+Rows,45
+Final Frobenius Condition Number,53.25441961512285
+Final Euclidean Condition Number,2.8910417532666672
+Improvement on the Frobenius Condition Number,1.1954900094913647
+Improvement on the Euclidean Condition Number,1.72707637743171
+Initial Euclidean Condition Number,4.993049918235615
+Name,mesh1e1.mtx
+Columns,45
+Initial Frobenius Condition Number,63.66512661114033
+Rows,105
+Final Frobenius Condition Number,177.35379332997377
+Final Euclidean Condition Number,20.825004397088357
+Improvement on the Frobenius Condition Number,1.4877303873509036
+Improvement on the Euclidean Condition Number,1.7673387558239406
+Initial Euclidean Condition Number,36.80483736117823
+Name,lp_sc105.mtx
+Columns,163
+Initial Frobenius Condition Number,263.85462764895397
+Rows,430
+Final Frobenius Condition Number,1.2059473681607988e11
+Final Euclidean Condition Number,1.511006929019725e10
+Improvement on the Frobenius Condition Number,13.878263888431373
+Improvement on the Euclidean Condition Number,32.00905115159517
+Initial Euclidean Condition Number,4.836589808140711e11
+Name,oscil_dcop_12.mtx
+Columns,430
+Initial Frobenius Condition Number,1.6736455810894868e12
+Rows,1085
+Final Frobenius Condition Number,641106.2479374462
+Final Euclidean Condition Number,114728.02926185455
+Improvement on the Frobenius Condition Number,2.099556150115938
+Improvement on the Euclidean Condition Number,1.0971964230597129
+Initial Euclidean Condition Number,125879.18333079689
+Name,bcsstm10.mtx
+Columns,1085
+Initial Frobenius Condition Number,1.3460385657348186e6
+Rows,1040
+Final Frobenius Condition Number,131703.2840115234
+Final Euclidean Condition Number,40648.393393848964
+Improvement on the Frobenius Condition Number,2061.946769813506
+Improvement on the Euclidean Condition Number,4033.4516085563505
+Initial Euclidean Condition Number,1.6395332771965143e8
+Name,rajat04.mtx
+Columns,1040
+Initial Frobenius Condition Number,2.7156516104139143e8
+Rows,800
+Final Frobenius Condition Number,32263.562394998913
+Final Euclidean Condition Number,3820.523163260149
+Improvement on the Frobenius Condition Number,1.955874628479657
+Improvement on the Euclidean Condition Number,2.0909116407490766
+Initial Euclidean Condition Number,7988.376355812131
+Name,G18.mtx
+Columns,800
+Initial Frobenius Condition Number,63103.483112748734
+Rows,105
+Final Frobenius Condition Number,108.92383353249954
+Final Euclidean Condition Number,1.9200450088930536
+Improvement on the Frobenius Condition Number,1.005674465674712
+Improvement on the Euclidean Condition Number,0.9806737522617242
+Initial Euclidean Condition Number,1.8829377433825465
+Name,bibd_15_3.mtx
+Columns,455
+Initial Frobenius Condition Number,109.54191808703777
+Rows,55
+Final Frobenius Condition Number,154.3627962524818
+Final Euclidean Condition Number,24.473574794729544
+Improvement on the Frobenius Condition Number,1.2531270320444585
+Improvement on the Euclidean Condition Number,1.3267593896093766
+Initial Euclidean Condition Number,32.47054515621479
+Name,cage_G_10.mtx
+Columns,55
+Initial Frobenius Condition Number,193.43619272595598
+Rows,145
+Final Frobenius Condition Number,43482.180837198466
+Final Euclidean Condition Number,9694.892016490474
+Improvement on the Frobenius Condition Number,45.54077893738415
+Improvement on the Euclidean Condition Number,30.58837147077611
+Initial Euclidean Condition Number,296550.9583694723
+Name,lund_a.mtx
+Columns,145
+Initial Frobenius Condition Number,1.9802123852222164e6
+Rows,30
+Final Frobenius Condition Number,34.301230737787336
+Final Euclidean Condition Number,2.452416908380571
+Improvement on the Frobenius Condition Number,1.0495250236120934
+Improvement on the Euclidean Condition Number,0.9117813410348564
+Initial Euclidean Condition Number,2.236067977499794
+Name,n3c5-b7.mtx
+Columns,120
+Initial Frobenius Condition Number,36.00000000000012
+Rows,50
+Final Frobenius Condition Number,56.39955548918837
+Final Euclidean Condition Number,3.49185234412628
+Improvement on the Frobenius Condition Number,1.0144975972035943
+Improvement on the Euclidean Condition Number,1.0023333334490585
+Initial Euclidean Condition Number,3.500000000000003
+Name,cage_G_38.mtx
+Columns,50
+Initial Frobenius Condition Number,57.217213527132394
+Rows,1180
+Final Frobenius Condition Number,299760.4804826838
+Final Euclidean Condition Number,26901.69073267051
+Improvement on the Frobenius Condition Number,103.57797370725613
+Improvement on the Euclidean Condition Number,122.2092320797882
+Initial Euclidean Condition Number,3.287634966087618e6
+Name,cavity08.mtx
+Columns,1180
+Initial Frobenius Condition Number,3.104858316590989e7
+Rows,955
+Final Frobenius Condition Number,303.29101587904137
+Final Euclidean Condition Number,1.8351081536375242
+Improvement on the Frobenius Condition Number,1.085235288400639
+Improvement on the Euclidean Condition Number,2.7105123727998435
+Initial Euclidean Condition Number,4.974083355860386
+Name,ash958.mtx
+Columns,292
+Initial Frobenius Condition Number,329.1421130868143
+Rows,440
+Final Frobenius Condition Number,543.1196437839371
+Final Euclidean Condition Number,5.124003968770462
+Improvement on the Frobenius Condition Number,1.029069613948543
+Improvement on the Euclidean Condition Number,1.1218113367110187
+Initial Euclidean Condition Number,5.7481657415189575
+Name,lp_grow22.mtx
+Columns,946
+Initial Frobenius Condition Number,558.9079221566063
+Rows,35
+Final Frobenius Condition Number,51.601205825444815
+Final Euclidean Condition Number,5.696585685877872
+Improvement on the Frobenius Condition Number,1.115779422414954
+Improvement on the Euclidean Condition Number,1.0252214985082135
+Initial Euclidean Condition Number,5.840262113256151
+Name,bibd_9_5.mtx
+Columns,126
+Initial Frobenius Condition Number,57.57556363182997
+Rows,70
+Final Frobenius Condition Number,2.338996517258846
+Final Euclidean Condition Number,1.775902560178525
+Improvement on the Frobenius Condition Number,1.3545603589825952
+Improvement on the Euclidean Condition Number,1.5838670267784687
+Initial Euclidean Condition Number,2.812793507838231
+Name,GD95_b_coord.mtx
+Columns,2
+Initial Frobenius Condition Number,3.168311962077182
+Rows,185
+Final Frobenius Condition Number,137036.79106478722
+Final Euclidean Condition Number,94117.38770321902
+Improvement on the Frobenius Condition Number,9.519429433376585
+Improvement on the Euclidean Condition Number,1.925545552230284
+Initial Euclidean Condition Number,181227.3172794666
+Name,gre_185.mtx
+Columns,185
+Initial Frobenius Condition Number,1.3045120623176128e6
+Rows,65
+Final Frobenius Condition Number,7786.484676260298
+Final Euclidean Condition Number,1415.3019582887755
+Improvement on the Frobenius Condition Number,2.6097237508609408
+Improvement on the Euclidean Condition Number,3.0558646649365113
+Initial Euclidean Condition Number,4324.971244550117
+Name,bcsstk02.mtx
+Columns,65
+Initial Frobenius Condition Number,20320.573995351264
+Rows,195
+Final Frobenius Condition Number,196.65596596835536
+Final Euclidean Condition Number,2.429390526781699
+Improvement on the Frobenius Condition Number,24.548200578036123
+Improvement on the Euclidean Condition Number,209.5265678275064
+Initial Euclidean Condition Number,509.02185898922716
+Name,Trefethen_200b.mtx
+Columns,195
+Initial Frobenius Condition Number,4827.550097458633
+Rows,225
+Final Frobenius Condition Number,383.7189165607211
+Final Euclidean Condition Number,24.858624822091468
+Improvement on the Frobenius Condition Number,1.4359462450584497
+Improvement on the Euclidean Condition Number,1.5714390419745385
+Initial Euclidean Condition Number,39.0638135752319
+Name,pde225.mtx
+Columns,225
+Initial Frobenius Condition Number,550.999737393264
+Rows,215
+Final Frobenius Condition Number,90.27163206015231
+Final Euclidean Condition Number,2.3077091282633737
+Improvement on the Frobenius Condition Number,1.1348092357752346
+Improvement on the Euclidean Condition Number,1.8291820091888227
+Initial Euclidean Condition Number,4.221220019860184
+Name,ash219.mtx
+Columns,85
+Initial Frobenius Condition Number,102.4410817903646
+Rows,575
+Final Frobenius Condition Number,27214.33020306663
+Final Euclidean Condition Number,3241.8190946526975
+Improvement on the Frobenius Condition Number,1.8651072026722761
+Improvement on the Euclidean Condition Number,1.6695969739287024
+Initial Euclidean Condition Number,5412.531350456429
+Name,lshp_577.mtx
+Columns,575
+Initial Frobenius Condition Number,50757.64327764124
+Rows,55
+Final Frobenius Condition Number,72.56667185459348
+Final Euclidean Condition Number,5.142010474598347
+Improvement on the Frobenius Condition Number,1.0691829445289693
+Improvement on the Euclidean Condition Number,0.9527361933172706
+Initial Euclidean Condition Number,4.898979485566361
+Name,bibd_11_5.mtx
+Columns,462
+Initial Frobenius Condition Number,77.58704788816173
+Rows,10
+Final Frobenius Condition Number,2.0041927082320212
+Final Euclidean Condition Number,1.06688140588415
+Improvement on the Frobenius Condition Number,2.031306924509871
+Improvement on the Euclidean Condition Number,3.5698104581597754
+Initial Euclidean Condition Number,3.8085644003414427
+Name,Tina_DisCal_coord.mtx
+Columns,2
+Initial Frobenius Condition Number,4.071130526283897
+Rows,5
+Final Frobenius Condition Number,5.072515292736426
+Final Euclidean Condition Number,1.294032358136609
+Improvement on the Frobenius Condition Number,107.30045659150748
+Improvement on the Euclidean Condition Number,380.61898031826195
+Initial Euclidean Condition Number,492.5332766527921
+Name,farm.mtx
+Columns,17
+Initial Frobenius Condition Number,544.2832069780228
+Rows,20
+Final Frobenius Condition Number,280.7203535587996
+Final Euclidean Condition Number,95.32473650538446
+Improvement on the Frobenius Condition Number,25.810394797750632
+Improvement on the Euclidean Condition Number,47.16183594284724
+Initial Euclidean Condition Number,4495.689584362083
+Name,lp_fit1d.mtx
+Columns,1049
+Initial Frobenius Condition Number,7245.50315311676
+Rows,55
+Final Frobenius Condition Number,207.66958210447365
+Final Euclidean Condition Number,47.58961826903694
+Improvement on the Frobenius Condition Number,1.5091473193669196
+Improvement on the Euclidean Condition Number,1.3962894657621048
+Initial Euclidean Condition Number,66.44888266869609
+Name,cage_G_06.mtx
+Columns,55
+Initial Frobenius Condition Number,313.40399314701483
+Rows,400
+Final Frobenius Condition Number,547798.0897476677
+Final Euclidean Condition Number,150871.23435055465
+Improvement on the Frobenius Condition Number,2.1908997260228484
+Improvement on the Euclidean Condition Number,1.7181182447730727
+Initial Euclidean Condition Number,259214.62034912186
+Name,ck400.mtx
+Columns,400
+Initial Frobenius Condition Number,1.2001706847440049e6
+Rows,55
+Final Frobenius Condition Number,168.1626228229933
+Final Euclidean Condition Number,27.880768303220446
+Improvement on the Frobenius Condition Number,1.2275197166566467
+Improvement on the Euclidean Condition Number,1.3022486833539646
+Initial Euclidean Condition Number,36.30769381376577
+Name,cage_G_12.mtx
+Columns,55
+Initial Frobenius Condition Number,206.4229351199193
+Rows,285
+Final Frobenius Condition Number,386.2371794135484
+Final Euclidean Condition Number,6.068387391454127
+Improvement on the Frobenius Condition Number,1.2517694745090127
+Improvement on the Euclidean Condition Number,1.4645015811682316
+Initial Euclidean Condition Number,8.88716292992593
+Name,mesh3e1.mtx
+Columns,285
+Initial Frobenius Condition Number,483.4799111103407
+Rows,420
+Final Frobenius Condition Number,689308.8405581708
+Final Euclidean Condition Number,19411.57293789783
+Improvement on the Frobenius Condition Number,198.96910266129774
+Improvement on the Euclidean Condition Number,178.09376863092163
+Initial Euclidean Condition Number,3.4570801795642353e6
+Name,bcsstm06.mtx
+Columns,420
+Initial Frobenius Condition Number,1.371511614623588e8
+Rows,430
+Final Frobenius Condition Number,1.6925759777151749e10
+Final Euclidean Condition Number,2.68374126869174e9
+Improvement on the Frobenius Condition Number,70.68366248624633
+Improvement on the Euclidean Condition Number,128.91779303659638
+Initial Euclidean Condition Number,3.4598200144097437e11
+Name,oscil_dcop_10.mtx
+Columns,430
+Initial Frobenius Condition Number,1.1963746914114783e12
+Rows,600
+Final Frobenius Condition Number,2.17919248941243e7
+Final Euclidean Condition Number,168594.95464644145
+Improvement on the Frobenius Condition Number,23.22789903989454
+Improvement on the Euclidean Condition Number,22.43913677954031
+Initial Euclidean Condition Number,3.7831252476518946e6
+Name,steam2.mtx
+Columns,600
+Initial Frobenius Condition Number,5.061806313256838e8
+Rows,135
+Final Frobenius Condition Number,139.35565633361145
+Final Euclidean Condition Number,1.8847639360554138
+Improvement on the Frobenius Condition Number,1.00431760101162
+Improvement on the Euclidean Condition Number,0.9847993942167321
+Initial Euclidean Condition Number,1.8561143824689152
+Name,bibd_17_3.mtx
+Columns,680
+Initial Frobenius Condition Number,139.9573384563724
+Rows,450
+Final Frobenius Condition Number,4550.369600473593
+Final Euclidean Condition Number,322.0998967391419
+Improvement on the Frobenius Condition Number,2.9356325656697986
+Improvement on the Euclidean Condition Number,2.1271863790593817
+Initial Euclidean Condition Number,685.166513039936
+Name,rdb450.mtx
+Columns,450
+Initial Frobenius Condition Number,13358.21318498415
+Rows,1180
+Final Frobenius Condition Number,6.126873082774114e10
+Final Euclidean Condition Number,1.2545989683841528e10
+Improvement on the Frobenius Condition Number,207.7060325511639
+Improvement on the Euclidean Condition Number,86.27173633616573
+Initial Euclidean Condition Number,1.0823643140806315e12
+Name,spaceStation_9.mtx
+Columns,1180
+Initial Frobenius Condition Number,1.27258849996753e13
+Rows,150
+Final Frobenius Condition Number,154.6711149543355
+Final Euclidean Condition Number,4.540367871074976
+Improvement on the Frobenius Condition Number,38.02711408143704
+Improvement on the Euclidean Condition Number,169.5724951918404
+Initial Euclidean Condition Number,769.9215089870481
+Name,Trefethen_150.mtx
+Columns,150
+Initial Frobenius Condition Number,5881.696133471579
+Rows,80
+Final Frobenius Condition Number,1.3262599477574687e7
+Final Euclidean Condition Number,2.98818986527942e6
+Improvement on the Frobenius Condition Number,4136.385097767491
+Improvement on the Euclidean Condition Number,16711.4078840013
+Initial Euclidean Condition Number,4.993685967352328e10
+Name,steam3.mtx
+Columns,80
+Initial Frobenius Condition Number,5.4859218836698845e10
+Rows,320
+Final Frobenius Condition Number,9773.231331561545
+Final Euclidean Condition Number,245.20407239523993
+Improvement on the Frobenius Condition Number,22.326698735285024
+Improvement on the Euclidean Condition Number,206.64055415543928
+Initial Euclidean Condition Number,50669.10540092283
+Name,lpi_refinery.mtx
+Columns,464
+Initial Frobenius Condition Number,218203.9916100231
+Rows,430
+Final Frobenius Condition Number,8.775985086531567e10
+Final Euclidean Condition Number,1.2619203752476046e10
+Improvement on the Frobenius Condition Number,9.137579601669938
+Improvement on the Euclidean Condition Number,17.778594707818357
+Initial Euclidean Condition Number,2.2435170905065216e11
+Name,oscil_dcop_11.mtx
+Columns,430
+Initial Frobenius Condition Number,8.019126231125043e11
+Rows,420
+Final Frobenius Condition Number,10671.972012516348
+Final Euclidean Condition Number,216.50761206923426
+Improvement on the Frobenius Condition Number,29.290333062834417
+Improvement on the Euclidean Condition Number,35.17284149141895
+Initial Euclidean Condition Number,7615.1879209968
+Name,bcsstm07.mtx
+Columns,420
+Initial Frobenius Condition Number,312585.61468385113
+Rows,180
+Final Frobenius Condition Number,2.3056491337016454e9
+Final Euclidean Condition Number,1.835187485693155e9
+Improvement on the Frobenius Condition Number,105.45167721952504
+Improvement on the Euclidean Condition Number,116.10156777114672
+Initial Euclidean Condition Number,2.130681442429642e11
+Name,fs_183_4.mtx
+Columns,180
+Initial Frobenius Condition Number,2.4313456822858344e11
+Rows,55
+Final Frobenius Condition Number,754.6589938974491
+Final Euclidean Condition Number,305.7691454004184
+Improvement on the Frobenius Condition Number,2.3494333395887756
+Improvement on the Euclidean Condition Number,1.3456509064018087
+Initial Euclidean Condition Number,411.4585276577794
+Name,cage_G_13.mtx
+Columns,55
+Initial Frobenius Condition Number,1773.0210002831896
+Rows,55
+Final Frobenius Condition Number,259.09153209828565
+Final Euclidean Condition Number,60.13440778497964
+Improvement on the Frobenius Condition Number,1.57847001255383
+Improvement on the Euclidean Condition Number,1.4546983136644744
+Initial Euclidean Condition Number,87.47742159802173
+Name,cage_G_07.mtx
+Columns,55
+Initial Frobenius Condition Number,408.968213923772
+Rows,1080
+Final Frobenius Condition Number,184396.55394969377
+Final Euclidean Condition Number,32426.00018817407
+Improvement on the Frobenius Condition Number,5.341355941253827
+Improvement on the Euclidean Condition Number,8.594794733917558
+Initial Euclidean Condition Number,278694.81565932825
+Name,cnae9_10NN.mtx
+Columns,1080
+Initial Frobenius Condition Number,984927.6289859286
+Rows,65
+Final Frobenius Condition Number,6525.335495681551
+Final Euclidean Condition Number,1714.842179606303
+Improvement on the Frobenius Condition Number,85.2540691852838
+Improvement on the Euclidean Condition Number,148.07964047460183
+Initial Euclidean Condition Number,253933.2134267839
+Name,ww_36_pmec_36.mtx
+Columns,65
+Initial Frobenius Condition Number,556311.4038060231
+Rows,45
+Final Frobenius Condition Number,41117.11266957787
+Final Euclidean Condition Number,9703.191668195195
+Improvement on the Frobenius Condition Number,34.81372259993172
+Improvement on the Euclidean Condition Number,44.41380344681755
+Initial Euclidean Condition Number,430955.64755801915
+Name,bcsstk01.mtx
+Columns,45
+Initial Frobenius Condition Number,1.4314397545888221e6
+Rows,115
+Final Frobenius Condition Number,16148.561487277424
+Final Euclidean Condition Number,7482.425931457491
+Improvement on the Frobenius Condition Number,121.84448730250666
+Improvement on the Euclidean Condition Number,171.24818252514802
+Initial Euclidean Condition Number,1.2813518416411332e6
+Name,zed.mtx
+Columns,142
+Initial Frobenius Condition Number,1.9676131950903223e6
+Rows,470
+Final Frobenius Condition Number,702.6088053363708
+Final Euclidean Condition Number,14.895504566532834
+Improvement on the Frobenius Condition Number,1.7845741139672082
+Improvement on the Euclidean Condition Number,4.004585624929316
+Initial Euclidean Condition Number,59.65032346320636
+Name,lp_scagr25.mtx
+Columns,671
+Initial Frobenius Condition Number,1253.8574862487126
+Rows,150
+Final Frobenius Condition Number,15444.54597869996
+Final Euclidean Condition Number,2449.9544753303962
+Improvement on the Frobenius Condition Number,4.393332777566752
+Improvement on the Euclidean Condition Number,5.70069494439828
+Initial Euclidean Condition Number,13966.443091521931
+Name,bcsstk05.mtx
+Columns,150
+Initial Frobenius Condition Number,67853.03008285932
+Rows,340
+Final Frobenius Condition Number,1944.3486102074173
+Final Euclidean Condition Number,273.5229286579606
+Improvement on the Frobenius Condition Number,1.788291708996046
+Improvement on the Euclidean Condition Number,1.249874012141068
+Initial Euclidean Condition Number,341.8692002543004
+Name,gre_343.mtx
+Columns,340
+Initial Frobenius Condition Number,3477.0624990319093
+Rows,60
+Final Frobenius Condition Number,60.17031528772678
+Final Euclidean Condition Number,1.1114572901860085
+Improvement on the Frobenius Condition Number,1.0008558527365663
+Improvement on the Euclidean Condition Number,0.9855935308382432
+Initial Euclidean Condition Number,1.095445115010334
+Name,n4c6-b15.mtx
+Columns,920
+Initial Frobenius Condition Number,60.22181221672584
+Rows,840
+Final Frobenius Condition Number,7205.195198527612
+Final Euclidean Condition Number,434.0703201888798
+Improvement on the Frobenius Condition Number,17.86944841789932
+Improvement on the Euclidean Condition Number,21.42117489974667
+Initial Euclidean Condition Number,9298.296247555032
+Name,young3c.mtx
+Columns,840
+Initial Frobenius Condition Number,128752.86394098501
+Rows,55
+Final Frobenius Condition Number,238.39114242978667
+Final Euclidean Condition Number,64.49959696214022
+Improvement on the Frobenius Condition Number,1.6556543841772267
+Improvement on the Euclidean Condition Number,1.3279903477472657
+Initial Euclidean Condition Number,85.65484219931106
+Name,cage_G_17.mtx
+Columns,55
+Initial Frobenius Condition Number,394.69334011289396
+Rows,60
+Final Frobenius Condition Number,517.4101202571501
+Final Euclidean Condition Number,167.6472547704924
+Improvement on the Frobenius Condition Number,3.8700100259336847
+Improvement on the Euclidean Condition Number,3.408285168114187
+Initial Euclidean Condition Number,571.3896519093296
+Name,bfwa62.mtx
+Columns,60
+Initial Frobenius Condition Number,2002.3823529147244
+Rows,10
+Final Frobenius Condition Number,4.053478465398917e6
+Final Euclidean Condition Number,2.5377076312706326e6
+Improvement on the Frobenius Condition Number,25.960113657400413
+Improvement on the Euclidean Condition Number,27.770307564604757
+Initial Euclidean Condition Number,7.047292142943007e7
+Name,LFAT5_E.mtx
+Columns,10
+Initial Frobenius Condition Number,1.0522876166958089e8
+Rows,330
+Final Frobenius Condition Number,2397.7601622216357
+Final Euclidean Condition Number,772.9604272162869
+Improvement on the Frobenius Condition Number,21.393507795682343
+Improvement on the Euclidean Condition Number,31.266248131350228
+Initial Euclidean Condition Number,24167.572513058905
+Name,lp_scfxm1.mtx
+Columns,600
+Initial Frobenius Condition Number,51296.50072266512
+Rows,1080
+Final Frobenius Condition Number,1.482873138093272e10
+Final Euclidean Condition Number,7.802185022762713e8
+Improvement on the Frobenius Condition Number,323.31035918953677
+Improvement on the Euclidean Condition Number,1235.9873245663998
+Initial Euclidean Condition Number,9.643401792056521e11
+Name,sherman2.mtx
+Columns,1080
+Initial Frobenius Condition Number,4.794282469094514e12
+Rows,10
+Final Frobenius Condition Number,2.3472443915552934
+Final Euclidean Condition Number,1.7879421925398755
+Improvement on the Frobenius Condition Number,1.2440741243036957
+Improvement on the Euclidean Condition Number,1.4116452445661325
+Initial Euclidean Condition Number,2.5239400936580596
+Name,Stranke94_coord.mtx
+Columns,2
+Initial Frobenius Condition Number,2.9201460109509125
+Rows,430
+Final Frobenius Condition Number,6.056365986867767e10
+Final Euclidean Condition Number,7.666112223851649e9
+Improvement on the Frobenius Condition Number,360.99793520907576
+Improvement on the Euclidean Condition Number,767.4063403054797
+Initial Euclidean Condition Number,5.883023126077097e12
+Name,oscil_dcop_01.mtx
+Columns,430
+Initial Frobenius Condition Number,2.1863356161297406e13
+Rows,405
+Final Frobenius Condition Number,7158.881400423103
+Final Euclidean Condition Number,691.7224986647445
+Improvement on the Frobenius Condition Number,1.4722484839905423
+Improvement on the Euclidean Condition Number,1.577605059116526
+Initial Euclidean Condition Number,1091.2649133982254
+Name,lshp_406.mtx
+Columns,405
+Initial Frobenius Condition Number,10539.652288841004
+Rows,430
+Final Frobenius Condition Number,5.130513521485165e11
+Final Euclidean Condition Number,1.5611923929026343e11
+Improvement on the Frobenius Condition Number,36.662371526897005
+Improvement on the Euclidean Condition Number,33.27622429909753
+Initial Euclidean Condition Number,5.195058824027285e12
+Name,oscil_dcop_14.mtx
+Columns,430
+Initial Frobenius Condition Number,1.8809679284845777e13
+Rows,360
+Final Frobenius Condition Number,4.087706694375413e11
+Final Euclidean Condition Number,1.3510867901812468e11
+Improvement on the Frobenius Condition Number,3.4362686531447904
+Improvement on the Euclidean Condition Number,1.6121256368017653
+Initial Euclidean Condition Number,2.1781216519953955e11
+Name,plat362.mtx
+Columns,360
+Initial Frobenius Condition Number,1.4046458377132344e12
+Rows,65
+Final Frobenius Condition Number,65.0
+Final Euclidean Condition Number,1.0000000042096127
+Improvement on the Frobenius Condition Number,1.9978356181584664
+Improvement on the Euclidean Condition Number,8.752170433069942
+Initial Euclidean Condition Number,8.752170469913189
+Name,bcsstm02.mtx
+Columns,65
+Initial Frobenius Condition Number,129.8593151803003
+Rows,180
+Final Frobenius Condition Number,2.03282929723674e11
+Final Euclidean Condition Number,1.809248149300638e11
+Improvement on the Frobenius Condition Number,109.27334339767059
+Improvement on the Euclidean Condition Number,118.04358694925216
+Initial Euclidean Condition Number,2.1357014122474344e13
+Name,fs_183_1.mtx
+Columns,180
+Initial Frobenius Condition Number,2.2213405386579566e13
+Rows,60
+Final Frobenius Condition Number,4.87750131779088
+Final Euclidean Condition Number,3.1547784927912423
+Improvement on the Frobenius Condition Number,1.6430626829325283
+Improvement on the Euclidean Condition Number,1.9476694113153816
+Initial Euclidean Condition Number,6.144465569885146
+Name,GD99_b_coord.mtx
+Columns,3
+Initial Frobenius Condition Number,8.014040401216427
+Rows,205
+Final Frobenius Condition Number,812.3791005138079
+Final Euclidean Condition Number,254.33804407001213
+Improvement on the Frobenius Condition Number,7.072050842513699
+Improvement on the Euclidean Condition Number,7.8110758590107645
+Initial Euclidean Condition Number,1986.6537560632878
+Name,wm1.mtx
+Columns,277
+Initial Frobenius Condition Number,5745.1863022291955
+Rows,495
+Final Frobenius Condition Number,8.281899439639862e10
+Final Euclidean Condition Number,2.272044819413349e10
+Improvement on the Frobenius Condition Number,4.439812317198436
+Improvement on the Euclidean Condition Number,1.3901198485225739
+Initial Euclidean Condition Number,3.1584146001993835e10
+Name,rw496.mtx
+Columns,495
+Initial Frobenius Condition Number,3.6770079141911884e11
+Rows,55
+Final Frobenius Condition Number,291.4555162367815
+Final Euclidean Condition Number,87.0281648467587
+Improvement on the Frobenius Condition Number,1.6986704463126077
+Improvement on the Euclidean Condition Number,1.2727259930843804
+Initial Euclidean Condition Number,110.76300753090213
+Name,cage_G_16.mtx
+Columns,55
+Initial Frobenius Condition Number,495.08687184620504
+Rows,50
+Final Frobenius Condition Number,71.36727011772321
+Final Euclidean Condition Number,7.328934367298016
+Improvement on the Frobenius Condition Number,1.3060561966258475
+Improvement on the Euclidean Condition Number,1.6866891463914773
+Initial Euclidean Condition Number,12.361634051937052
+Name,lp_sc50a.mtx
+Columns,78
+Initial Frobenius Condition Number,93.20966537352308
+Rows,360
+Final Frobenius Condition Number,441.5811948110544
+Final Euclidean Condition Number,6.164012027010772
+Improvement on the Frobenius Condition Number,1.2971834938696054
+Improvement on the Euclidean Condition Number,2.85104280047723
+Initial Euclidean Condition Number,17.573862111664116
+Name,model1.mtx
+Columns,798
+Initial Frobenius Condition Number,572.8118371121184
+Rows,360
+Final Frobenius Condition Number,10734.968882043528
+Final Euclidean Condition Number,882.5329509895097
+Improvement on the Frobenius Condition Number,145.13064716906092
+Improvement on the Euclidean Condition Number,330.9137797724504
+Initial Euclidean Condition Number,292042.3145856734
+Name,lpi_pang.mtx
+Columns,741
+Initial Frobenius Condition Number,1.5579729811907075e6
+Rows,10680
+Final Frobenius Condition Number,2.6871709786222184
+Final Euclidean Condition Number,2.2409271004533484
+Improvement on the Frobenius Condition Number,1.1402193211991207
+Improvement on the Euclidean Condition Number,1.2015438532420992
+Initial Euclidean Condition Number,2.692572183113361
+Name,jazz_coord.mtx
+Columns,2
+Initial Frobenius Condition Number,3.0639642691906026
+Rows,35
+Final Frobenius Condition Number,37.394907845100356
+Final Euclidean Condition Number,2.0357713294287287
+Improvement on the Frobenius Condition Number,1.019135071811085
+Improvement on the Euclidean Condition Number,0.9976240963118024
+Initial Euclidean Condition Number,2.030934532818812
+Name,bibd_9_3.mtx
+Columns,84
+Initial Frobenius Condition Number,38.11046209208526
+Rows,130
+Final Frobenius Condition Number,414144.44161681895
+Final Euclidean Condition Number,66303.85891608355
+Improvement on the Frobenius Condition Number,38.62869213116969
+Improvement on the Euclidean Condition Number,34.56994374386573
+Initial Euclidean Condition Number,2.2921206727302186e6
+Name,bcsstk04.mtx
+Columns,130
+Initial Frobenius Condition Number,1.5997858133051282e7
+Rows,1085
+Final Frobenius Condition Number,242396.87955521696
+Final Euclidean Condition Number,15148.732462918857
+Improvement on the Frobenius Condition Number,32.67008675953414
+Improvement on the Euclidean Condition Number,34.579215099106655
+Initial Euclidean Condition Number,523831.27831409086
+Name,bcsstk10.mtx
+Columns,1085
+Initial Frobenius Condition Number,7.919127085309287e6
+Rows,400
+Final Frobenius Condition Number,2822.519413834564
+Final Euclidean Condition Number,428.3737098955401
+Improvement on the Frobenius Condition Number,4.180232857470809
+Improvement on the Euclidean Condition Number,4.5240804280642655
+Initial Euclidean Condition Number,1937.9971168356926
+Name,Olivetti_norm_10NN.mtx
+Columns,400
+Initial Frobenius Condition Number,11798.788394560494
+Rows,140
+Final Frobenius Condition Number,170.75334581750278
+Final Euclidean Condition Number,4.470827627684117
+Improvement on the Frobenius Condition Number,1.0385694393692675
+Improvement on the Euclidean Condition Number,1.1579182757875714
+Initial Euclidean Condition Number,5.176853017991431
+Name,lp_grow7.mtx
+Columns,301
+Initial Frobenius Condition Number,177.33920663611053
+Rows,420
+Final Frobenius Condition Number,733753.360155163
+Final Euclidean Condition Number,64501.17822664921
+Improvement on the Frobenius Condition Number,73.77506637319277
+Improvement on the Euclidean Condition Number,117.36293337347645
+Initial Euclidean Condition Number,7.570047482724961e6
+Name,bcsstk06.mtx
+Columns,420
+Initial Frobenius Condition Number,5.413270284700037e7
+Rows,1135
+Final Frobenius Condition Number,1.3586095594443895e6
+Final Euclidean Condition Number,292934.90131562453
+Improvement on the Frobenius Condition Number,4.454163768093112
+Improvement on the Euclidean Condition Number,4.492509246205585
+Initial Euclidean Condition Number,1.3160127526967637e6
+Name,1138_bus.mtx
+Columns,1135
+Initial Frobenius Condition Number,6.051469474662145e6
+Rows,55
+Final Frobenius Condition Number,189.04568563222023
+Final Euclidean Condition Number,44.026666293107894
+Improvement on the Frobenius Condition Number,1.6398247571859306
+Improvement on the Euclidean Condition Number,1.4768665278967434
+Initial Euclidean Condition Number,65.02150978317084
+Name,cage_G_14.mtx
+Columns,55
+Initial Frobenius Condition Number,310.0017955389033
+Rows,270
+Final Frobenius Condition Number,900.7648707351743
+Final Euclidean Condition Number,63.76831725512074
+Improvement on the Frobenius Condition Number,1.2242953735883002
+Improvement on the Euclidean Condition Number,1.1144113072155977
+Initial Euclidean Condition Number,71.06413379121805
+Name,cage_G_28.mtx
+Columns,270
+Initial Frobenius Condition Number,1102.8022639319372
+Rows,205
+Final Frobenius Condition Number,370.3489662537414
+Final Euclidean Condition Number,27.858302537926928
+Improvement on the Frobenius Condition Number,2.5999635628271442
+Improvement on the Euclidean Condition Number,8.069623182301518
+Initial Euclidean Condition Number,224.80600397962436
+Name,wm3.mtx
+Columns,260
+Initial Frobenius Condition Number,962.8938177904274
+Rows,180
+Final Frobenius Condition Number,5.57039930414079e6
+Final Euclidean Condition Number,3.353003151587199e6
+Improvement on the Frobenius Condition Number,62.28235684624389
+Improvement on the Euclidean Condition Number,95.89861218191207
+Initial Euclidean Condition Number,3.215483488787897e8
+Name,rajat14.mtx
+Columns,180
+Initial Frobenius Condition Number,3.4693759723656535e8
+Rows,15
+Final Frobenius Condition Number,2.3728573294789967
+Final Euclidean Condition Number,1.8248744153836312
+Improvement on the Frobenius Condition Number,1.1505629720162065
+Improvement on the Euclidean Condition Number,1.2572094568318812
+Initial Euclidean Condition Number,2.2942493725508517
+Name,GD01_b_coord.mtx
+Columns,2
+Initial Frobenius Condition Number,2.7301217811757934
+Rows,800
+Final Frobenius Condition Number,1.7037021093543805e6
+Final Euclidean Condition Number,370305.19763556554
+Improvement on the Frobenius Condition Number,1.8594081351050116
+Improvement on the Euclidean Condition Number,1.1271480181975408
+Initial Euclidean Condition Number,417388.76964317635
+Name,G20.mtx
+Columns,800
+Initial Frobenius Condition Number,3.167877561929103e6
+Rows,660
+Final Frobenius Condition Number,4799.218797542856
+Final Euclidean Condition Number,775.5649644608927
+Improvement on the Frobenius Condition Number,21.388504193714407
+Improvement on the Euclidean Condition Number,31.16754340777422
+Initial Euclidean Condition Number,24172.454695383745
+Name,lp_scfxm2.mtx
+Columns,1200
+Initial Frobenius Condition Number,102648.1113777984
+Rows,1000
+Final Frobenius Condition Number,7019.304994376433
+Final Euclidean Condition Number,787.646700591652
+Improvement on the Frobenius Condition Number,23.581933368047956
+Improvement on the Euclidean Condition Number,19.79983052263307
+Initial Euclidean Condition Number,15595.271183425823
+Name,sherman1.mtx
+Columns,1000
+Initial Frobenius Condition Number,165528.78266739126
+Rows,400
+Final Frobenius Condition Number,306678.8771248844
+Final Euclidean Condition Number,75481.09855244415
+Improvement on the Frobenius Condition Number,7.3392420058319425
+Improvement on the Euclidean Condition Number,2.9931837608655774
+Initial Euclidean Condition Number,225928.79843947006
+Name,odepa400.mtx
+Columns,400
+Initial Frobenius Condition Number,2.2507904972963245e6
+Rows,430
+Final Frobenius Condition Number,4.221787930115319e10
+Final Euclidean Condition Number,4.2779344534232526e9
+Improvement on the Frobenius Condition Number,192.6425751838863
+Improvement on the Euclidean Condition Number,488.7903208380247
+Initial Euclidean Condition Number,2.0910129540127915e12
+Name,oscil_dcop_02.mtx
+Columns,430
+Initial Frobenius Condition Number,8.132960987376641e12
+Rows,65
+Final Frobenius Condition Number,2.070292102453132
+Final Euclidean Condition Number,1.3025920221626628
+Improvement on the Frobenius Condition Number,2.1438264194357024
+Improvement on the Euclidean Condition Number,3.2245451521537962
+Initial Euclidean Condition Number,4.200266790298825
+Name,GD96_c_coord.mtx
+Columns,2
+Initial Frobenius Condition Number,4.43834690518811
+Rows,430
+Final Frobenius Condition Number,1.5994659220068564e11
+Final Euclidean Condition Number,2.3229732349927914e10
+Improvement on the Frobenius Condition Number,12.569786099565242
+Improvement on the Euclidean Condition Number,26.90046962153387
+Initial Euclidean Condition Number,6.248907093955984e11
+Name,oscil_dcop_03.mtx
+Columns,430
+Initial Frobenius Condition Number,2.0104944513170085e12
+Rows,30
+Final Frobenius Condition Number,30.244721226211325
+Final Euclidean Condition Number,1.2364572410162096
+Improvement on the Frobenius Condition Number,1.0050470652312593
+Improvement on the Euclidean Condition Number,0.990527477023796
+Initial Euclidean Condition Number,1.2247448713915896
+Name,n2c6-b10.mtx
+Columns,306
+Initial Frobenius Condition Number,30.397368307141267
+Rows,330
+Final Frobenius Condition Number,3.664492625702636
+Final Euclidean Condition Number,3.367539949572729
+Improvement on the Frobenius Condition Number,2.4388888919838667
+Improvement on the Euclidean Condition Number,2.620299305143705
+Initial Euclidean Condition Number,8.82396258990909
+Name,USAir97_coord.mtx
+Columns,2
+Initial Frobenius Condition Number,8.937290359582953
+Rows,690
+Final Frobenius Condition Number,1.5254427710760774e12
+Final Euclidean Condition Number,4.119335540695262e11
+Improvement on the Frobenius Condition Number,2.2068744737777615
+Improvement on the Euclidean Condition Number,2.3352434883947577
+Initial Euclidean Condition Number,9.619651497921708e11
+Name,rkat7_mat5.mtx
+Columns,738
+Initial Frobenius Condition Number,3.3664607126966084e12
+Rows,90
+Final Frobenius Condition Number,1364.06637353727
+Final Euclidean Condition Number,352.69415981086377
+Improvement on the Frobenius Condition Number,39.44231238048257
+Improvement on the Euclidean Condition Number,58.71522748152886
+Initial Euclidean Condition Number,20708.51782470156
+Name,lp_recipe.mtx
+Columns,204
+Initial Frobenius Condition Number,53801.93201276902
+Rows,800
+Final Frobenius Condition Number,37270.143476573845
+Final Euclidean Condition Number,4173.594995881514
+Improvement on the Frobenius Condition Number,1.88684525942932
+Improvement on the Euclidean Condition Number,2.110774291628391
+Initial Euclidean Condition Number,8809.5170209756
+Name,G21.mtx
+Columns,800
+Initial Frobenius Condition Number,70322.99353702395
+Rows,205
+Final Frobenius Condition Number,398.28716002826417
+Final Euclidean Condition Number,38.22685036291034
+Improvement on the Frobenius Condition Number,2.711500146045663
+Improvement on the Euclidean Condition Number,10.813298517871225
+Initial Euclidean Condition Number,413.35834437214345
+Name,wm2.mtx
+Columns,260
+Initial Frobenius Condition Number,1079.9556925847508
+Rows,335
+Final Frobenius Condition Number,12952.750279521535
+Final Euclidean Condition Number,2784.6791148775415
+Improvement on the Frobenius Condition Number,3.3639768375077748
+Improvement on the Euclidean Condition Number,3.5018117002976425
+Initial Euclidean Condition Number,9751.421906052658
+Name,Ecoli_10NN.mtx
+Columns,335
+Initial Frobenius Condition Number,43572.7519223328
+Rows,10
+Final Frobenius Condition Number,12.097585934152061
+Final Euclidean Condition Number,2.7478870033246197
+Improvement on the Frobenius Condition Number,1.1192368528255179
+Improvement on the Euclidean Condition Number,1.0917479490133168
+Initial Euclidean Condition Number,3.0000000000000027
+Name,cage_G_01.mtx
+Columns,10
+Initial Frobenius Condition Number,13.540064007726606
+Rows,320
+Final Frobenius Condition Number,5373.72547533115
+Final Euclidean Condition Number,125.57631742611241
+Improvement on the Frobenius Condition Number,39.46756796529297
+Improvement on the Euclidean Condition Number,384.3364918546492
+Initial Euclidean Condition Number,48263.561299577894
+Name,lpi_qual.mtx
+Columns,464
+Initial Frobenius Condition Number,212087.87542445844
+Rows,10
+Final Frobenius Condition Number,13.034072674803944
+Final Euclidean Condition Number,3.3752518242439273
+Improvement on the Frobenius Condition Number,19.858099587962972
+Improvement on the Euclidean Condition Number,44.520425993143355
+Initial Euclidean Condition Number,150.26764904947387
+Name,lpi_itest6.mtx
+Columns,17
+Initial Frobenius Condition Number,258.83191321300365
+Rows,55
+Final Frobenius Condition Number,13785.350573293279
+Final Euclidean Condition Number,5784.94722108684
+Improvement on the Frobenius Condition Number,2.608813313659073
+Improvement on the Euclidean Condition Number,1.4457960512501946
+Initial Euclidean Condition Number,8363.853848938139
+Name,cage_G_15.mtx
+Columns,55
+Initial Frobenius Condition Number,35963.40610906524
+Rows,50
+Final Frobenius Condition Number,71.07163773570342
+Final Euclidean Condition Number,7.736804056336929
+Improvement on the Frobenius Condition Number,1.5039233110209944
+Improvement on the Euclidean Condition Number,2.1891683338981798
+Initial Euclidean Condition Number,16.937166445707796
+Name,lp_sc50b.mtx
+Columns,78
+Initial Frobenius Condition Number,106.88629274316374
+Rows,900
+Final Frobenius Condition Number,2987.547726858542
+Final Euclidean Condition Number,215.7063730976702
+Improvement on the Frobenius Condition Number,1.8257246192262673
+Improvement on the Euclidean Condition Number,0.9020311881504188
+Initial Euclidean Condition Number,194.573876016909
+Name,gr_30_30.mtx
+Columns,900
+Initial Frobenius Condition Number,5454.439436039112
+Rows,430
+Final Frobenius Condition Number,16584.598921041317
+Final Euclidean Condition Number,1633.7032042984963
+Improvement on the Frobenius Condition Number,16.430446737797187
+Improvement on the Euclidean Condition Number,23.2476732183496
+Initial Euclidean Condition Number,37979.798229302076
+Name,hor_131.mtx
+Columns,430
+Initial Frobenius Condition Number,272492.36923989805
+Rows,420
+Final Frobenius Condition Number,733753.360155163
+Final Euclidean Condition Number,64501.17822664921
+Improvement on the Frobenius Condition Number,73.77506637319277
+Improvement on the Euclidean Condition Number,117.36293337347645
+Initial Euclidean Condition Number,7.570047482724961e6
+Name,bcsstk07.mtx
+Columns,420
+Initial Frobenius Condition Number,5.413270284700037e7
+Rows,1000
+Final Frobenius Condition Number,5.861195755336016e6
+Final Euclidean Condition Number,642351.4054822265
+Improvement on the Frobenius Condition Number,4.38910736649035
+Improvement on the Euclidean Condition Number,2.067061783028528
+Initial Euclidean Condition Number,1.3277800415469722e6
+Name,tub1000.mtx
+Columns,1000
+Initial Frobenius Condition Number,2.572541746618728e7
+Rows,5
+Final Frobenius Condition Number,5.061667895253529
+Final Euclidean Condition Number,1.2126063783667007
+Improvement on the Frobenius Condition Number,1.5618753173898159
+Improvement on the Euclidean Condition Number,2.668687906671377
+Initial Euclidean Condition Number,3.2360679774997902
+Name,mycielskian3.mtx
+Columns,5
+Initial Frobenius Condition Number,7.905694150420947
+Rows,265
+Final Frobenius Condition Number,4897.840454979026
+Final Euclidean Condition Number,774.9642969634502
+Improvement on the Frobenius Condition Number,1.8229403629154934
+Improvement on the Euclidean Condition Number,1.7910389104476108
+Initial Euclidean Condition Number,1387.9912100692165
+Name,lshp_265.mtx
+Columns,265
+Initial Frobenius Condition Number,8928.47105650165
+Rows,100
+Final Frobenius Condition Number,9431.562573639696
+Final Euclidean Condition Number,3127.639444506526
+Improvement on the Frobenius Condition Number,1.9094279087634185
+Improvement on the Euclidean Condition Number,1.7470120642079476
+Initial Euclidean Condition Number,5464.023842045545
+Name,ck104.mtx
+Columns,100
+Initial Frobenius Condition Number,18008.88880135617
+Rows,20
+Final Frobenius Condition Number,32.51839766213741
+Final Euclidean Condition Number,8.034170132180662
+Improvement on the Frobenius Condition Number,1.9213642254932208
+Improvement on the Euclidean Condition Number,2.157266519492075
+Initial Euclidean Condition Number,17.331846238056563
+Name,Trec8.mtx
+Columns,84
+Initial Frobenius Condition Number,62.47968593839321
+Rows,765
+Final Frobenius Condition Number,12771.118567269856
+Final Euclidean Condition Number,1558.687006076026
+Improvement on the Frobenius Condition Number,1.935477534973972
+Improvement on the Euclidean Condition Number,2.4937181710965683
+Initial Euclidean Condition Number,3886.926110103893
+Name,mycielskian10.mtx
+Columns,765
+Initial Frobenius Condition Number,24718.213083439783
+Rows,205
+Final Frobenius Condition Number,469.39165956828265
+Final Euclidean Condition Number,73.20676592551862
+Improvement on the Frobenius Condition Number,2.138659770735056
+Improvement on the Euclidean Condition Number,1.724821622151861
+Initial Euclidean Condition Number,126.26861275614462
+Name,lp_sc205.mtx
+Columns,317
+Initial Frobenius Condition Number,1003.8690590372508
+Rows,800
+Final Frobenius Condition Number,159243.988661431
+Final Euclidean Condition Number,33828.26858201406
+Improvement on the Frobenius Condition Number,1.9121749648211521
+Improvement on the Euclidean Condition Number,2.172946300426662
+Initial Euclidean Condition Number,73507.01106512694
+Name,G5.mtx
+Columns,800
+Initial Frobenius Condition Number,304502.3684166518
+Rows,350
+Final Frobenius Condition Number,2.3333102277780196
+Final Euclidean Condition Number,1.7675578970106862
+Improvement on the Frobenius Condition Number,1.6829812200826635
+Improvement on the Euclidean Condition Number,2.0667970429403035
+Initial Euclidean Condition Number,3.653183434767468
+Name,GD00_a_coord.mtx
+Columns,2
+Initial Frobenius Condition Number,3.926917293977209
+Rows,310
+Final Frobenius Condition Number,7782.896649437632
+Final Euclidean Condition Number,1157.5283828523877
+Improvement on the Frobenius Condition Number,2.5704688870831545
+Improvement on the Euclidean Condition Number,2.8242028063030955
+Initial Euclidean Condition Number,3269.0949072271974
+Name,dwt_310.mtx
+Columns,310
+Initial Frobenius Condition Number,20005.69368876316
+Rows,305
+Final Frobenius Condition Number,3057.741016716558
+Final Euclidean Condition Number,141.61510658573314
+Improvement on the Frobenius Condition Number,1.6883253348370113
+Improvement on the Euclidean Condition Number,2.050354878321839
+Initial Euclidean Condition Number,290.36122463212513
+Name,mesh2e1.mtx
+Columns,305
+Initial Frobenius Condition Number,5162.461625892846
+Rows,340
+Final Frobenius Condition Number,377.1201472671103
+Final Euclidean Condition Number,4.7634107060591
+Improvement on the Frobenius Condition Number,1.2720825423625197
+Improvement on the Euclidean Condition Number,2.744104595652567
+Initial Euclidean Condition Number,13.071297209477416
+Name,cage7.mtx
+Columns,340
+Initial Frobenius Condition Number,479.7279557116736
+Rows,100
+Final Frobenius Condition Number,2595.059670276022
+Final Euclidean Condition Number,668.6585486321245
+Improvement on the Frobenius Condition Number,3.0601105021781194
+Improvement on the Euclidean Condition Number,2.3606389168013946
+Initial Euclidean Condition Number,1578.461391952931
+Name,nos4.mtx
+Columns,100
+Initial Frobenius Condition Number,7941.169350790543
+Rows,285
+Final Frobenius Condition Number,2.3199090994643448
+Final Euclidean Condition Number,1.747742400443949
+Improvement on the Frobenius Condition Number,1.2714456228047577
+Improvement on the Euclidean Condition Number,1.4640804616115901
+Initial Euclidean Condition Number,2.5588355004201255
+Name,mesh3e1_coord.mtx
+Columns,2
+Initial Frobenius Condition Number,2.9496382698188683
+Rows,1000
+Final Frobenius Condition Number,98359.07382205983
+Final Euclidean Condition Number,14602.448220869479
+Improvement on the Frobenius Condition Number,2.093591937581201
+Improvement on the Euclidean Condition Number,2.0811931687593557
+Initial Euclidean Condition Number,30390.515484435764
+Name,G46.mtx
+Columns,1000
+Initial Frobenius Condition Number,205923.76394181862
+Rows,1000
+Final Frobenius Condition Number,18476.715772370295
+Final Euclidean Condition Number,1780.6922843684013
+Improvement on the Frobenius Condition Number,1.3921617498682317
+Improvement on the Euclidean Condition Number,2.166282228879472
+Initial Euclidean Condition Number,3857.4820507300587
+Name,G52.mtx
+Columns,1000
+Initial Frobenius Condition Number,25722.576961480987
+Rows,330
+Final Frobenius Condition Number,107.89543001782967
+Final Euclidean Condition Number,1.7148608709724102
+Improvement on the Frobenius Condition Number,1.0819161148812024
+Improvement on the Euclidean Condition Number,2.0666470170143114
+Initial Euclidean Condition Number,3.544012103589696
+Name,ash331.mtx
+Columns,104
+Initial Frobenius Condition Number,116.73380445832693
+Rows,80
+Final Frobenius Condition Number,2.576007144671743
+Final Euclidean Condition Number,2.0997628977211527
+Improvement on the Frobenius Condition Number,1.1129357996047409
+Improvement on the Euclidean Condition Number,1.1718041679442583
+Initial Euclidean Condition Number,2.46051091524436
+Name,GD02_b_coord.mtx
+Columns,2
+Initial Frobenius Condition Number,2.8669305713427717
+Rows,1000
+Final Frobenius Condition Number,34164.030755321204
+Final Euclidean Condition Number,3709.8695839744596
+Improvement on the Frobenius Condition Number,1.5735762854906374
+Improvement on the Euclidean Condition Number,2.474003609560555
+Initial Euclidean Condition Number,9178.230741751728
+Name,G53.mtx
+Columns,1000
+Initial Frobenius Condition Number,53759.708613346236
+Rows,710
+Final Frobenius Condition Number,957.241416949537
+Final Euclidean Condition Number,3.0834356114312604
+Improvement on the Frobenius Condition Number,1.0521576837936155
+Improvement on the Euclidean Condition Number,1.7915138971608155
+Initial Euclidean Condition Number,5.524017748879659
+Name,gams60am.mtx
+Columns,1071
+Initial Frobenius Condition Number,1007.1689120889433
+Rows,1000
+Final Frobenius Condition Number,33677.14900856318
+Final Euclidean Condition Number,2931.6039248191073
+Improvement on the Frobenius Condition Number,1.3221177903278372
+Improvement on the Euclidean Condition Number,1.5233711849174254
+Initial Euclidean Condition Number,4465.920944660258
+Name,G47.mtx
+Columns,1000
+Initial Frobenius Condition Number,44525.157831742865
+Rows,60
+Final Frobenius Condition Number,2.465797993749693
+Final Euclidean Condition Number,1.9540369424130086
+Improvement on the Frobenius Condition Number,1.4581941959764326
+Improvement on the Euclidean Condition Number,1.684630341221048
+Initial Euclidean Condition Number,3.29182992105576
+Name,GD95_c_coord.mtx
+Columns,2
+Initial Frobenius Condition Number,3.5956123229361343
+Rows,70
+Final Frobenius Condition Number,2870.2064311645427
+Final Euclidean Condition Number,1148.105127506796
+Improvement on the Frobenius Condition Number,2.6947012397650085
+Improvement on the Euclidean Condition Number,3.8180090145781147
+Initial Euclidean Condition Number,4383.475726504303
+Name,CAG_mat72.mtx
+Columns,70
+Initial Frobenius Condition Number,7734.348828440594
+Rows,465
+Final Frobenius Condition Number,24714.73460188251
+Final Euclidean Condition Number,2516.0440393754347
+Improvement on the Frobenius Condition Number,5.444041406752323
+Improvement on the Euclidean Condition Number,4.07303537998869
+Initial Euclidean Condition Number,10247.936389985804
+Name,nos5.mtx
+Columns,465
+Initial Frobenius Condition Number,134548.03852954277
+Rows,90
+Final Frobenius Condition Number,99.02550912512096
+Final Euclidean Condition Number,2.864566517306272
+Improvement on the Frobenius Condition Number,1.1910251820807045
+Improvement on the Euclidean Condition Number,1.7367975901849082
+Initial Euclidean Condition Number,4.975172224181908
+Name,cage6.mtx
+Columns,90
+Initial Frobenius Condition Number,117.94187503638166
+Rows,800
+Final Frobenius Condition Number,13114.013303603611
+Final Euclidean Condition Number,1628.867778674774
+Improvement on the Frobenius Condition Number,1.1887408820187828
+Improvement on the Euclidean Condition Number,1.4867278598497278
+Initial Euclidean Condition Number,2421.683106567327
+Name,G4.mtx
+Columns,800
+Initial Frobenius Condition Number,15589.163741331808
+Rows,25
+Final Frobenius Condition Number,36.268359179264664
+Final Euclidean Condition Number,5.797594115179464
+Improvement on the Frobenius Condition Number,5.733094467300563
+Improvement on the Euclidean Condition Number,11.238496802879755
+Initial Euclidean Condition Number,65.15624292783889
+Name,refine.mtx
+Columns,62
+Initial Frobenius Condition Number,207.92992934871182
+Rows,45
+Final Frobenius Condition Number,100.06855023866349
+Final Euclidean Condition Number,21.52605470874338
+Improvement on the Frobenius Condition Number,2.219999245656472
+Improvement on the Euclidean Condition Number,3.354258767961316
+Initial Euclidean Condition Number,72.20395774641746
+Name,Trec9.mtx
+Columns,201
+Initial Frobenius Condition Number,222.15210604376972
+Rows,305
+Final Frobenius Condition Number,9966.440106249138
+Final Euclidean Condition Number,1955.0541229843905
+Improvement on the Frobenius Condition Number,9.006722889059304
+Improvement on the Euclidean Condition Number,4.512489182028466
+Initial Euclidean Condition Number,8822.160580247211
+Name,cz308.mtx
+Columns,305
+Initial Frobenius Condition Number,89764.96422739276
+Rows,35
+Final Frobenius Condition Number,2.094928921947588
+Final Euclidean Condition Number,1.3592044118994338
+Improvement on the Frobenius Condition Number,1.9269084703457764
+Improvement on the Euclidean Condition Number,2.774856046468085
+Initial Euclidean Condition Number,3.7715965807452414
+Name,football_coord.mtx
+Columns,2
+Initial Frobenius Condition Number,4.036736284473153
+Rows,800
+Final Frobenius Condition Number,31694.024865962514
+Final Euclidean Condition Number,2458.8617074976096
+Improvement on the Frobenius Condition Number,1.5648065478988327
+Improvement on the Euclidean Condition Number,1.340739661020289
+Initial Euclidean Condition Number,3296.6934122061143
+Name,G6.mtx
+Columns,800
+Initial Frobenius Condition Number,49595.017639526566
+Rows,5
+Final Frobenius Condition Number,5.0
+Final Euclidean Condition Number,1.0000000001148197
+Improvement on the Frobenius Condition Number,1.1223947003165253
+Improvement on the Euclidean Condition Number,1.9002914250444014
+Initial Euclidean Condition Number,1.9002914252625922
+Name,cage4.mtx
+Columns,5
+Initial Frobenius Condition Number,5.611973501582627
+Rows,725
+Final Frobenius Condition Number,1.686926649345215e9
+Final Euclidean Condition Number,4.9565207320188236e8
+Improvement on the Frobenius Condition Number,7.590535319040036
+Improvement on the Euclidean Condition Number,4.667742322204362
+Initial Euclidean Condition Number,2.313576159172761e9
+Name,nos7.mtx
+Columns,725
+Initial Frobenius Condition Number,1.2804676312484722e10
+Rows,225
+Final Frobenius Condition Number,459572.4898316485
+Final Euclidean Condition Number,90545.13316366356
+Improvement on the Frobenius Condition Number,52.97342833745601
+Improvement on the Euclidean Condition Number,78.42468625740271
+Initial Euclidean Condition Number,7.100973660495064e6
+Name,impcol_e.mtx
+Columns,225
+Initial Frobenius Condition Number,2.4345130355963062e7
+Rows,65
+Final Frobenius Condition Number,74.41211318782132
+Final Euclidean Condition Number,3.280248577879994
+Improvement on the Frobenius Condition Number,1.0278082617738453
+Improvement on the Euclidean Condition Number,0.9407163195542392
+Initial Euclidean Condition Number,3.085783369406295
+Name,bibd_12_4.mtx
+Columns,495
+Initial Frobenius Condition Number,76.48138471049326
+Rows,1000
+Final Frobenius Condition Number,31263.52721561705
+Final Euclidean Condition Number,3753.3097176139513
+Improvement on the Frobenius Condition Number,1.6928915808629421
+Improvement on the Euclidean Condition Number,2.834487610293887
+Initial Euclidean Condition Number,10638.709892172394
+Name,G51.mtx
+Columns,1000
+Initial Frobenius Condition Number,52925.762011397564
+Rows,1000
+Final Frobenius Condition Number,20637.892285662983
+Final Euclidean Condition Number,1982.3139448598881
+Improvement on the Frobenius Condition Number,1.3345016282970328
+Improvement on the Euclidean Condition Number,1.7204386354518302
+Initial Euclidean Condition Number,3410.4494983318805
+Name,G45.mtx
+Columns,1000
+Initial Frobenius Condition Number,27541.300859836025
+Rows,175
+Final Frobenius Condition Number,609156.1589678917
+Final Euclidean Condition Number,14155.470208714205
+Improvement on the Frobenius Condition Number,1.3229036057198826
+Improvement on the Euclidean Condition Number,1.0000058593133543
+Initial Euclidean Condition Number,14155.553150049836
+Name,p0548.mtx
+Columns,724
+Initial Frobenius Condition Number,805854.8791450979
+Rows,560
+Final Frobenius Condition Number,1.1984317287627168e6
+Final Euclidean Condition Number,221234.22194434708
+Improvement on the Frobenius Condition Number,233.7742177331187
+Improvement on the Euclidean Condition Number,55.261908352451485
+Initial Euclidean Condition Number,1.222582529751442e7
+Name,spaceShuttleEntry_1.mtx
+Columns,560
+Initial Frobenius Condition Number,2.8016243989805317e8
+Rows,410
+Final Frobenius Condition Number,103081.73371984149
+Final Euclidean Condition Number,5096.470561769058
+Improvement on the Frobenius Condition Number,18.93645728883804
+Improvement on the Euclidean Condition Number,82.8689595225054
+Initial Euclidean Condition Number,422339.21269088046
+Name,lpi_pilot4i.mtx
+Columns,1123
+Initial Frobenius Condition Number,1.952002847845154e6
+Rows,510
+Final Frobenius Condition Number,23398.24887778136
+Final Euclidean Condition Number,3105.5356697371776
+Improvement on the Frobenius Condition Number,5.417830915309238
+Improvement on the Euclidean Condition Number,3.6999636405258203
+Initial Euclidean Condition Number,11490.36906238356
+Name,dwa512.mtx
+Columns,510
+Initial Frobenius Condition Number,126767.75613414352
+Rows,95
+Final Frobenius Condition Number,1002.5929208531372
+Final Euclidean Condition Number,291.96923858466664
+Improvement on the Frobenius Condition Number,50.25332232897618
+Improvement on the Euclidean Condition Number,39.11850808441607
+Initial Euclidean Condition Number,11421.401019975086
+Name,lp_share2b.mtx
+Columns,162
+Initial Frobenius Condition Number,50383.62521638241
+Rows,410
+Final Frobenius Condition Number,103081.59907620997
+Final Euclidean Condition Number,5096.466364310739
+Improvement on the Frobenius Condition Number,18.936470807669618
+Improvement on the Euclidean Condition Number,82.86903297178645
+Initial Euclidean Condition Number,422339.23918366723
+Name,lp_pilot4.mtx
+Columns,1123
+Initial Frobenius Condition Number,1.9520016917145536e6
+Rows,60
+Final Frobenius Condition Number,259.2669525803323
+Final Euclidean Condition Number,57.424779335463114
+Improvement on the Frobenius Condition Number,1.77984209596682
+Improvement on the Euclidean Condition Number,1.683178404851111
+Initial Euclidean Condition Number,96.65614848079184
+Name,can_62.mtx
+Columns,60
+Initial Frobenius Condition Number,461.4542362955088
+Rows,320
+Final Frobenius Condition Number,5373.72547533115
+Final Euclidean Condition Number,125.57631742611241
+Improvement on the Frobenius Condition Number,39.46756796529297
+Improvement on the Euclidean Condition Number,384.3364918546492
+Initial Euclidean Condition Number,48263.561299577894
+Name,lpi_vol1.mtx
+Columns,464
+Initial Frobenius Condition Number,212087.87542445844
+Rows,180
+Final Frobenius Condition Number,2.099492439153785
+Final Euclidean Condition Number,1.3690691368815806
+Improvement on the Frobenius Condition Number,1.554477007613294
+Improvement on the Euclidean Condition Number,2.133785072243817
+Initial Euclidean Condition Number,2.921299287147644
+Name,GD96_d_coord.mtx
+Columns,2
+Initial Frobenius Condition Number,3.2636127243225115
+Rows,1000
+Final Frobenius Condition Number,18397.357641380764
+Final Euclidean Condition Number,1741.0898377637845
+Improvement on the Frobenius Condition Number,1.284853002169032
+Improvement on the Euclidean Condition Number,1.651875237872823
+Initial Euclidean Condition Number,2876.063189914006
+Name,G44.mtx
+Columns,1000
+Initial Frobenius Condition Number,23637.900197505456
+Rows,360
+Final Frobenius Condition Number,5.907823935016605e7
+Final Euclidean Condition Number,1.1714771226967666e7
+Improvement on the Frobenius Condition Number,333.57537843616103
+Improvement on the Euclidean Condition Number,931.8280160560488
+Initial Euclidean Condition Number,1.0916152030975765e10
+Name,hangGlider_1.mtx
+Columns,360
+Initial Frobenius Condition Number,1.9707046048573742e10
+Rows,65
+Final Frobenius Condition Number,82.93269494306612
+Final Euclidean Condition Number,4.790614183296046
+Improvement on the Frobenius Condition Number,1.0544982463946053
+Improvement on the Euclidean Condition Number,0.9596480591075588
+Initial Euclidean Condition Number,4.597303602933193
+Name,bibd_12_5.mtx
+Columns,792
+Initial Frobenius Condition Number,87.45238138624198
+Rows,845
+Final Frobenius Condition Number,12676.499863716926
+Final Euclidean Condition Number,903.6894892587871
+Improvement on the Frobenius Condition Number,2.131658531733527
+Improvement on the Euclidean Condition Number,3.438595065760459
+Initial Euclidean Condition Number,3107.422218744855
+Name,Vehicle_10NN.mtx
+Columns,845
+Initial Frobenius Condition Number,27021.969087011075
+Rows,425
+Final Frobenius Condition Number,3620.84066276578
+Final Euclidean Condition Number,470.93696343767647
+Improvement on the Frobenius Condition Number,9.600644472869023
+Improvement on the Euclidean Condition Number,4.377482699998224
+Initial Euclidean Condition Number,2061.518410238125
+Name,impcol_d.mtx
+Columns,425
+Initial Frobenius Condition Number,34762.403896121694
+Rows,675
+Final Frobenius Condition Number,4.61267129544375e7
+Final Euclidean Condition Number,2.9880846056320835e6
+Improvement on the Frobenius Condition Number,19.27311688502268
+Improvement on the Euclidean Condition Number,2.560331308721569
+Initial Euclidean Condition Number,7.650486568908765e6
+Name,nos6.mtx
+Columns,675
+Initial Frobenius Condition Number,8.890055302927638e8
+Rows,35
+Final Frobenius Condition Number,39.96607086692672
+Final Euclidean Condition Number,2.9225115724192516
+Improvement on the Frobenius Condition Number,1.2079879048718436
+Improvement on the Euclidean Condition Number,1.6564021786507388
+Initial Euclidean Condition Number,4.840854535687245
+Name,cage5.mtx
+Columns,35
+Initial Frobenius Condition Number,48.27853021249844
+Rows,15
+Final Frobenius Condition Number,189159.25636212126
+Final Euclidean Condition Number,51342.67878724296
+Improvement on the Frobenius Condition Number,30.828176183528956
+Improvement on the Euclidean Condition Number,39.0401909883398
+Initial Euclidean Condition Number,2.004427985706948e6
+Name,LF10_M.mtx
+Columns,15
+Initial Frobenius Condition Number,5.831434881876795e6
+Rows,800
+Final Frobenius Condition Number,77628.66221266573
+Final Euclidean Condition Number,8532.226395705746
+Improvement on the Frobenius Condition Number,2.1210987372113688
+Improvement on the Euclidean Condition Number,1.3649444520707223
+Initial Euclidean Condition Number,11646.015082629934
+Name,G7.mtx
+Columns,800
+Initial Frobenius Condition Number,164658.0573906932
+Rows,170
+Final Frobenius Condition Number,692.7874812791124
+Final Euclidean Condition Number,54.22669137896842
+Improvement on the Frobenius Condition Number,22.64173969400012
+Improvement on the Euclidean Condition Number,76.75643704344259
+Initial Euclidean Condition Number,4162.24762290398
+Name,lp_beaconfd.mtx
+Columns,295
+Initial Frobenius Condition Number,15685.913814383643
+Rows,35
+Final Frobenius Condition Number,2.0223189611145873
+Final Euclidean Condition Number,1.1609710125596606
+Improvement on the Frobenius Condition Number,1.3413001255495995
+Improvement on the Euclidean Condition Number,1.9574053854259488
+Initial Euclidean Condition Number,2.2724909123076964
+Name,GD98_a_coord.mtx
+Columns,2
+Initial Frobenius Condition Number,2.7125366764443317
+Rows,260
+Final Frobenius Condition Number,324.66751691406233
+Final Euclidean Condition Number,4.8926467079772005
+Improvement on the Frobenius Condition Number,3.0337325493205656
+Improvement on the Euclidean Condition Number,13.080612023506273
+Initial Euclidean Condition Number,63.99881335513495
+Name,rosen7.mtx
+Columns,776
+Initial Frobenius Condition Number,984.9544137692761
+Rows,660
+Final Frobenius Condition Number,62518.91103332959
+Final Euclidean Condition Number,21913.628991458958
+Improvement on the Frobenius Condition Number,3.701129910253112
+Improvement on the Euclidean Condition Number,5.437342903499274
+Initial Euclidean Condition Number,119151.9150866253
+Name,662_bus.mtx
+Columns,660
+Initial Frobenius Condition Number,231390.61158190944
+Rows,20
+Final Frobenius Condition Number,62.4265350252635
+Final Euclidean Condition Number,22.469937436143635
+Improvement on the Frobenius Condition Number,1.62796075211569
+Improvement on the Euclidean Condition Number,1.9560544048559099
+Initial Euclidean Condition Number,43.95242009880547
+Name,mycielskian5.mtx
+Columns,20
+Initial Frobenius Condition Number,101.62794891170444
