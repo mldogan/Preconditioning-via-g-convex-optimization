@@ -1,4 +1,3 @@
-#uncomment below if the code does not compile. Comment them again after it compiles.
 #using Pkg
 #Pkg.add("LinearAlgebra")
 #Pkg.add("Manifolds")

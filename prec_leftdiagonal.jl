@@ -1,14 +1,15 @@
-function k_F(A)
-    return norm(A) * norm(pinv(A))
-end
-
-#uncomment below if the code does not compile. Comment them again after it compiles.
 #using Pkg
 #Pkg.add("LinearAlgebra")
 #Pkg.add("Manifolds")
 #Pkg.add("Manopt")
 using LinearAlgebra
 using Manifolds, Manopt
+
+
+function k_F(A)
+    return norm(A) * norm(pinv(A))
+end
+
 
 left = true
 include("data/mpg_scale_f.jl")

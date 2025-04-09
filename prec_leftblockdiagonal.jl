@@ -1,4 +1,3 @@
-#uncomment below if the code does not compile. Comment them again after it compiles.
 #using Pkg
 #Pkg.add("LinearAlgebra")
 #Pkg.add("Manifolds")
@@ -86,7 +85,9 @@ M = PowerManifold(SymmetricPositiveDefinite(block_size) , NestedPowerRepresentat
 Ik = Matrix{Float64}(I,block_size,block_size)
 U = [Ik for i in 1:m]
 
-# the below is the main part: optimizes f over the manifold M using trust regions method. 
+# optimizes f over the manifold M using trust regions method. main step basically. 
+#current stopping criteria is when the gradient norm is less than 1e-6 or after 200 iterations. update this up to your liking/problem domain.
+# the debug option is used to print the output of the optimization process. 
 opt1 = trust_regions(M, f, grad_f, U;
     debug=[:Iteration,(:Change, "|Δp|: %1.9f |"),
     (:Cost, " F(x): %1.20f | "), "\n", :Stop, 20],
